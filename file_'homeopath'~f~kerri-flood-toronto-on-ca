@@ -1,0 +1,1391 @@
+
+<!DOCTYPE html>
+<html lang="en" ng-app="RateMds" id="ng-app">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="apple-touch-icon" sizes="57x57" href="//www.ratemds.com/static/img/favicons/apple-touch-icon-57x57.495c70819b0f.png">
+<link rel="apple-touch-icon" sizes="114x114" href="//www.ratemds.com/static/img/favicons/apple-touch-icon-114x114.abcec11ee43c.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//www.ratemds.com/static/img/favicons/apple-touch-icon-72x72.a21a57e92df8.png">
+<link rel="apple-touch-icon" sizes="144x144" href="//www.ratemds.com/static/img/favicons/apple-touch-icon-144x144.2fcfe644723c.png">
+<link rel="apple-touch-icon" sizes="60x60" href="//www.ratemds.com/static/img/favicons/apple-touch-icon-60x60.5dd1baf2b8ba.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//www.ratemds.com/static/img/favicons/apple-touch-icon-120x120.e5b8c908f646.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//www.ratemds.com/static/img/favicons/apple-touch-icon-76x76.276049fc3342.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//www.ratemds.com/static/img/favicons/apple-touch-icon-152x152.526a8d9adee2.png">
+<link rel="icon" type="image/png" href="//www.ratemds.com/static/img/favicons/favicon-196x196.897fb2fdc9c6.png" sizes="196x196">
+<link rel="icon" type="image/png" href="//www.ratemds.com/static/img/favicons/favicon-160x160.570290c84442.png" sizes="160x160">
+<link rel="icon" type="image/png" href="//www.ratemds.com/static/img/favicons/favicon-96x96.c5d27a2c4dc1.png" sizes="96x96">
+<link rel="icon" type="image/png" href="//www.ratemds.com/static/img/favicons/favicon-16x16.811fdfc82c30.png" sizes="16x16">
+<link rel="icon" type="image/png" href="//www.ratemds.com/static/img/favicons/favicon-32x32.58b3181bfa12.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="//www.ratemds.com/static/img/favicons/mstile-144x144.9e293d193285.png">
+<meta name="msapplication-config" content="//www.ratemds.com/static/img/favicons/browserconfig.8c5bbff52280.xml">
+<link rel="alternate" type="application/rss+xml" title="RateMDs Health News &raquo; Feed" href="https://www.ratemds.com/blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="RateMDs Health News &raquo; Comments Feed" href="https://www.ratemds.com/blog/comments/feed/" />
+<title>
+  Kerri Flood - Toronto, ON -
+  
+    Homeopath Reviews &amp; Ratings
+  
+  - RateMDs
+</title>
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="//www.ratemds.com/static/css/main.dfffcfe5dfad.css" rel="stylesheet">
+<link href="//www.ratemds.com/static/css/main-blessed1.ffa9818aee96.css" rel="stylesheet">
+
+<!--[if lte IE 8]>
+      <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+    <![endif]-->
+<!--[if lte IE 9]>
+      <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.js"></script>
+    <![endif]-->
+<link id="canonical" rel="canonical" href="https://www.ratemds.com/doctor-ratings/kerri-flood-toronto-on-ca">
+<meta property="og:site_name" content="RateMDs" />
+<meta property="fb:app_id" content="301350850032888" />
+<meta name="description" content="Kerri Flood has a 5.0/5 rating from patients. Visit RateMDs for Kerri Flood reviews, contact info, practice history, affiliated hospitals & more." />
+<meta property="og:type" content="profile" />
+<meta property="og:title" content="Kerri Flood" />
+<meta property="og:url" content="https://www.ratemds.com/doctor-ratings/kerri-flood-toronto-on-ca" />
+<meta property="og:image" content="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-kerri-flood-homeopath.jpg" />
+<meta property="og:updated_time" content="2017-04-24T14:39:29.497893+00:00" />
+<meta property="og:description" content="Check out Kerri Flood, I found him on www.ratemds.com" />
+<meta name="twitter:url" content="https://www.ratemds.com/doctor-ratings/kerri-flood-toronto-on-ca" />
+<meta name="twitter:title" content="Check out Kerri Flood, 
+    Homeopath
+     via @RateMDs" />
+<meta name="twitter:image:src" content="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-kerri-flood-homeopath.jpg" />
+<link rel="amphtml" href="https://www.ratemds.com/amp/doctor-ratings/kerri-flood-toronto-on-ca" />
+<script>
+      // Console polyfill. https://github.com/paulmillr/console-polyfill
+      !function(e){"use strict"
+      e.console=e.console||{}
+      for(var o,i,n=e.console,r={},t=function(){},l="memory".split(","),p="assert,clear,count,debug,dir,dirxml,error,exception,group,groupCollapsed,groupEnd,info,log,markTimeline,profile,profiles,profileEnd,show,table,time,timeEnd,timeline,timelineEnd,timeStamp,trace,warn".split(",");o=l.pop();)n[o]=n[o]||r
+      for(;i=p.pop();)n[i]=n[i]||t}("undefined"==typeof window?this:window)
+    </script>
+<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-142923-1', 'auto');
+      ga('require', 'displayfeatures');
+      ga('set', 'contentGroup1', 'doctor-detail');
+    </script>
+<script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      window.onload = function() {
+        (function() {
+          var gads = document.createElement('script');
+          gads.async = true;
+          gads.type = 'text/javascript';
+          var useSSL = 'https:' == document.location.protocol;
+          gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(gads, node);
+        })();
+      }
+    </script>
+<script>
+      var storedUser = localStorage.getItem('ls.auth.user');
+      if (storedUser && JSON){
+        var user = JSON.parse(storedUser);
+        user.is_doctor = !!(user.doctors && user.doctors.length);
+
+        ga('set', 'dimension3', user.test_group || 'control'); // Test Group
+
+        if (user.is_authenticated) {
+          ga('set', 'dimension2', 'true'); // Is Logged In
+
+          if (!user.is_doctor) {
+            googletag.cmd.push(function() {
+              googletag.pubads().setTargeting('registered', 'true');
+            });
+          }
+        } else {
+          ga('set', 'dimension2', 'false'); // Is Logged In
+          googletag.cmd.push(function() {
+            googletag.pubads().setTargeting('registered', 'false');
+          });
+        }
+
+        if (user.is_doctor) {
+          ga('set', 'dimension1', 'true'); // Is Doctor
+          googletag.cmd.push(function() {
+            googletag.pubads().setTargeting('registered', 'truedoctor');
+          });
+        } else {
+          ga('set', 'dimension1', 'false'); // Is Doctor
+        }
+      }
+
+      window.clickTrack = function(url,cat,act){ga('send','event',cat,act,url,{'hitCallback':function (){document.location=url}});return false;}
+    </script>
+<script>
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting('Specialty', 'Homeopath');
+      googletag.pubads().setTargeting('category', 'Homeopath');
+    });
+  </script>
+<script>
+    try{
+      googletag.cmd.push(function() {
+
+        googletag.pubads().setTargeting("sitename", "RateMDs.com");
+        googletag.pubads().setTargeting("google_page_url", "https://www.ratemds.com/doctor-ratings/kerri-flood-toronto-on-ca");
+
+        if (typeof document.amzn_slots != 'undefined') {
+          googletag.pubads().setTargeting("passback", document.amzn_slots);
+        }
+
+        googletag.defineSlot(
+          '/1030735/RateMDs_com_300x250_TopRight_OH_Content',
+          [300, 250],
+          'RateMDs_com_300x250_TopRight_OH_Content'
+        ).defineSizeMapping(googletag.sizeMapping()
+          .addSize([992, 0], [300, 250])
+          .addSize([0, 0], [])
+        .build()).addService(googletag.pubads());
+
+        googletag.defineSlot(
+          '/1030735/RateMDs_com_300x600_BottomLeft_OH_Content',
+          [300, 600],
+          'RateMDs_com_300x600_BottomLeft_OH_Content'
+        ).defineSizeMapping(googletag.sizeMapping()
+          .addSize([992, 0], [300, 600])
+          .addSize([0, 0], [])
+        .build()).addService(googletag.pubads());
+
+        googletag.defineSlot(
+          '/1030735/RateMDs_com_728x90_Top_OH_Content',
+          [728, 90],
+          'RateMDs_com_728x90_Top_OH_Content'
+        ).defineSizeMapping(googletag.sizeMapping()
+          .addSize([992, 0], [728, 90])
+          .addSize([768, 0], [728, 90])
+          .addSize([0, 0], [])
+        .build()).addService(googletag.pubads());
+
+        googletag.defineSlot(
+          '/1030735/RateMDs_com_300x250_Bottom_OH_Content',
+          [[300, 250]],
+          'RateMDs_com_300x250_Bottom_OH_Content'
+        ).defineSizeMapping(googletag.sizeMapping()
+          .addSize([768, 0], [])
+          .addSize([0, 0], [300, 250])
+        .build()).addService(googletag.pubads());
+
+        googletag.defineSlot(
+          '/1030735/RateMds_com_320x50_Bottom_OH_Content',
+          [320, 50],
+          'RateMds_com_320x50_Bottom_OH_Content'
+        ).defineSizeMapping(googletag.sizeMapping()
+          .addSize([768, 0], [])
+          .addSize([0, 0], [320, 50])
+        .build()).addService(googletag.pubads());
+
+        googletag.defineSlot(
+          '/1030735/RateMDs_com_160x600_LeftUpper_OH_Content',
+          [160, 600],
+          'RateMDs_com_160x600_LeftUpper_OH_Content'
+        ).defineSizeMapping(googletag.sizeMapping()
+          .addSize([768, 0], [160, 600])
+          .addSize([0, 0], [])
+        .build()).addService(googletag.pubads());
+
+        googletag.pubads().set('adsense_background_color', 'ffffff');
+        googletag.pubads().set('adsense_border_color', 'ffffff');
+        googletag.pubads().set('adsense_link_color', '3d999d');
+        googletag.pubads().set('adsense_text_color', '3d999d');
+        googletag.pubads().set('adsense_url_color', '3d999d');
+
+        
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+        
+      });
+    }
+    catch(err){}
+    </script>
+<script>
+      // isolated so the pageview event fires, no matter what else fails
+      ga('send', 'pageview');
+    </script>
+
+<script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '857395057690441');
+  fbq('track', 'PageView');
+  </script>
+<noscript><img height="1" width="1" style="display:none" alt="Facebook Pixel"
+  src="https://www.facebook.com/tr?id=857395057690441&ev=PageView&noscript=1"
+  /></noscript>
+
+</head>
+<body class="doctor-detail search-detail" ng-controller="DoctorDetailCtrl">
+<header class="container">
+<div class="row">
+<div class="col-sm-3">
+<a href="/" class="header-logo">
+<img src="//www.ratemds.com/static/img/header-logo.9588cab8283f.svg" alt="RateMDs Logo">
+</a>
+</div>
+<div class="col-sm-4 navbar-left">
+<form role="search" action="/best-doctors/">
+<div class="input-group">
+<input class="form-control" id="doctor-search" placeholder="Find A Doctor By Name" type="text" name="text">
+<label for="doctor-search" class="hidden">Name</label>
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">
+<i class="fa fa-search"></i>
+</button>
+</span>
+</div>
+</form>
+</div>
+<div class="col-sm-5 col-right" ng-controller="AuthCtrl">
+<div class="auth" ng-cloak>
+<div ng-show="user.is_authenticated==false" class="auth-logged-out">
+<a href="javascript:;" ng-click="showSignup()">Signup</a> |
+<a href="javascript:;" ng-click="showLogin()">Login</a>
+<a class="btn btn-success hidden-xs header-claim-profile claim-doctor-profile" href="/plans/doctor/">
+<i class="fa fa-user-md"></i>
+Claim Doctor Profile
+</a>
+<span class="visible-xs-inline">
+| <a href="/plans/doctor/" class="claim-doctor-profile">
+Claim Doctor Profile
+</a>
+</span>
+</div>
+<div ng-show="user.is_authenticated==true">
+<div class="announcement hidden-xs" ng-show="!!user.announcement" ng-click="showAnnouncement()">
+<div class="tooltip left" role="tooltip">
+<div class="tooltip-arrow"></div>
+<div class="tooltip-inner">
+See what's new!
+</div>
+</div>
+<a href="javascript:;">
+<i class="fa fa-bell-o"></i>
+</a>
+</div>
+<div class="dropdown account-menu">
+<a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">
+Account
+<i class="fa fa-caret-down"></i>
+</a>
+<ul class="dropdown-menu dropdown-menu-right" role="menu">
+<li><a href="/accounts/dashboard/">
+<span ng-show="user.doctors.length">User</span>
+Dashboard
+</a></li>
+<li ng-show="user.doctors.length > 1" class="divider"></li>
+<li ng-repeat="doctor in user.doctors">
+<a ng-href="[[ getDoctorUpdateUrl(doctor) ]]">
+[[ doctor.name ]]
+</a>
+</li>
+<li>
+<a class="authed-claim-profile claim-doctor-profile" href="/plans/doctor/">
+<i class="fa fa-plus" ng-show="user.doctors.length"></i>
+Claim Doctor Profile
+</a>
+</li>
+<li class="divider" ng-show="user.is_superuser || user.is_sales"></li>
+<li ng-show="user.is_superuser">
+<a href="/reports/" rel="nofollow">
+<i class="fa fa-lock"></i>
+Reports
+</a>
+</li>
+<li ng-show="user.is_superuser">
+<a href="/admin/" rel="nofollow">
+<i class="fa fa-lock"></i>
+Admin
+</a>
+</li>
+<li ng-show="user.is_sales">
+<a href="/sales/" rel="nofollow">
+<i class="fa fa-money"></i>
+Sales
+</a>
+</li>
+<li ng-show="user.is_sales || user.is_superuser">
+<a href="/doctors/2139979/dashboard/billing/" rel="nofollow">
+<i class="fa fa-money"></i>
+Doctor Dashboard Billing
+</a>
+</li>
+<li class="divider"></li>
+<li ng-show="user.is_superuser">
+<a href="/admin/doctors/doctor/2139979/" rel="nofollow">
+<i class="fa fa-lock"></i>
+Admin: Doctor
+</a>
+</li>
+<li ng-show="user.is_superuser">
+<a href="/admin/doctors/doctorrating/?doctor=2139979" rel="nofollow">
+<i class="fa fa-lock"></i>
+Admin: Ratings
+</a>
+</li>
+<li ng-show="user.is_superuser">
+<a href="/amp/doctor-ratings/kerri-flood-toronto-on-ca" rel="nofollow">
+<i class="fa fa-lock"></i>
+Amp: Doctor
+</a>
+</li>
+<li class="divider" ng-show="user.is_superuser"></li>
+<li><a href="javascript:;" ng-click="logout()">Logout</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="header-ad hidden-xs">
+<div id="RateMDs_com_728x90_Top_OH_Content">
+<script type="text/javascript">
+          googletag.cmd.push(function() { googletag.display("RateMDs_com_728x90_Top_OH_Content"); });
+        </script>
+</div>
+</div>
+<nav class="navbar navbar-main" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" ng-click="topNavOpen = !topNavOpen">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand visible-xs-block" href="#">Menu</a>
+</div>
+<div class="collapse navbar-collapse" ng-show="topNavOpen">
+<ul class="nav navbar-nav">
+<li class="col-sm-3 ">
+<a href="/doctors/local/">Find A Doctor</a>
+</li>
+<li class="col-sm-3 ">
+<a href="/facilities/local/">Find A Facility</a>
+</li>
+<li class="col-sm-3">
+<a href="/blog/">Health News</a>
+</li>
+<li class="col-sm-3">
+<a href="/forum/">Health Forum</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div itemscope itemtype="http://schema.org/Physician"> 
+<div class="doctor-banner map-banner" style="background-image: url('https://cdn1.ratemds.com/media/locations/location/map/2158061-map.png');">
+<a href="javascript:;" ng-click="showAddress()">
+<div class='map-marker'>
+<i class='fa fa-map-marker'></i>
+</div>
+</a>
+<link itemprop="url" href="https://www.ratemds.com/doctor-ratings/kerri-flood-toronto-on-ca">
+
+<div id="info-panel"><span data-reactid=".tdn850hrwc" data-react-checksum="-1599902360"><div class="doctor-banner-panel" data-reactid=".tdn850hrwc.0"><div class="container doctor-profile" data-reactid=".tdn850hrwc.0.0"><div class="row" data-reactid=".tdn850hrwc.0.0.0"><div class="col-sm-3 col-md-2 doctor-banner-image-col" data-reactid=".tdn850hrwc.0.0.0.0"><div id="gallery" data-reactid=".tdn850hrwc.0.0.0.0.0"><span data-reactid=".tdn850hrwc.0.0.0.0.0.0"><img class="doctor-banner-image doctor-profile-image" src="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-kerri-flood-homeopath.jpg_thumbs/v1_at_165x165.jpg" alt="Kerri Flood" data-reactid=".tdn850hrwc.0.0.0.0.0.0.0"></span></div><div class="share hidden-xs" data-reactid=".tdn850hrwc.0.0.0.0.2"><div data-reactid=".tdn850hrwc.0.0.0.0.2.0">Share this Doctor:</div><a href="#" data-reactid=".tdn850hrwc.0.0.0.0.2.1"><i class="fa fa-twitter-square fa-fw" data-reactid=".tdn850hrwc.0.0.0.0.2.1.0"></i><span data-reactid=".tdn850hrwc.0.0.0.0.2.1.1"> twitter</span></a><a href="#" data-reactid=".tdn850hrwc.0.0.0.0.2.2"><i class="fa fa-facebook-square fa-fw" data-reactid=".tdn850hrwc.0.0.0.0.2.2.0"></i><span data-reactid=".tdn850hrwc.0.0.0.0.2.2.1"> facebook</span></a></div></div><div class="col-sm-6" data-reactid=".tdn850hrwc.0.0.0.1"><h1 itemprop="name" data-reactid=".tdn850hrwc.0.0.0.1.0">Kerri Flood</h1><div class="badges" data-reactid=".tdn850hrwc.0.0.0.1.1"><div class="badge-verified" data-reactid=".tdn850hrwc.0.0.0.1.1.0"><i class="fa fa-check verified" data-reactid=".tdn850hrwc.0.0.0.1.1.0.0"></i><div class="tooltip bottom" role="tooltip" data-reactid=".tdn850hrwc.0.0.0.1.1.0.1"><div class="tooltip-arrow" data-reactid=".tdn850hrwc.0.0.0.1.1.0.1.0"></div><div class="tooltip-inner" data-reactid=".tdn850hrwc.0.0.0.1.1.0.1.1">Verified</div></div></div><div class="badge" data-reactid=".tdn850hrwc.0.0.0.1.1.1"><img src="//www.ratemds.com/static/img/doctors/badges/staff.svg" alt="Outstanding Staff Badge" data-reactid=".tdn850hrwc.0.0.0.1.1.1.0"><div class="tooltip bottom" role="tooltip" data-reactid=".tdn850hrwc.0.0.0.1.1.1.1"><div class="tooltip-arrow" data-reactid=".tdn850hrwc.0.0.0.1.1.1.1.0"></div><div class="tooltip-inner" data-reactid=".tdn850hrwc.0.0.0.1.1.1.1.1">Outstanding Staff</div></div></div><div class="badge" data-reactid=".tdn850hrwc.0.0.0.1.1.2"><img src="//www.ratemds.com/static/img/doctors/badges/punctuality.svg" alt="World Class Punctuality Badge" data-reactid=".tdn850hrwc.0.0.0.1.1.2.0"><div class="tooltip bottom" role="tooltip" data-reactid=".tdn850hrwc.0.0.0.1.1.2.1"><div class="tooltip-arrow" data-reactid=".tdn850hrwc.0.0.0.1.1.2.1.0"></div><div class="tooltip-inner" data-reactid=".tdn850hrwc.0.0.0.1.1.2.1.1">World Class Punctuality</div></div></div><div class="badge" data-reactid=".tdn850hrwc.0.0.0.1.1.3"><img src="//www.ratemds.com/static/img/doctors/badges/helpfulness.svg" alt="Exceptionally Helpful Badge" data-reactid=".tdn850hrwc.0.0.0.1.1.3.0"><div class="tooltip bottom" role="tooltip" data-reactid=".tdn850hrwc.0.0.0.1.1.3.1"><div class="tooltip-arrow" data-reactid=".tdn850hrwc.0.0.0.1.1.3.1.0"></div><div class="tooltip-inner" data-reactid=".tdn850hrwc.0.0.0.1.1.3.1.1">Exceptionally Helpful</div></div></div><div class="badge" data-reactid=".tdn850hrwc.0.0.0.1.1.4"><img src="//www.ratemds.com/static/img/doctors/badges/knowledge.svg" alt="Highly Knowledgeable Badge" data-reactid=".tdn850hrwc.0.0.0.1.1.4.0"><div class="tooltip bottom" role="tooltip" data-reactid=".tdn850hrwc.0.0.0.1.1.4.1"><div class="tooltip-arrow" data-reactid=".tdn850hrwc.0.0.0.1.1.4.1.0"></div><div class="tooltip-inner" data-reactid=".tdn850hrwc.0.0.0.1.1.4.1.1">Highly Knowledgeable</div></div></div></div><div class="search-item-info" data-reactid=".tdn850hrwc.0.0.0.1.2"><a href="/best-doctors/on/toronto/homeopath/" data-reactid=".tdn850hrwc.0.0.0.1.2.0">Homeopath</a><a class="what-is hidden-xs" href="/specialties/homeopath/" data-reactid=".tdn850hrwc.0.0.0.1.2.1"><i class="fa fa-question-circle" data-reactid=".tdn850hrwc.0.0.0.1.2.1.0"></i></a></div><div class="search-item-info" data-reactid=".tdn850hrwc.0.0.0.1.3"><span data-reactid=".tdn850hrwc.0.0.0.1.3.0"><span class="star-rating" title="5.00" data-reactid=".tdn850hrwc.0.0.0.1.3.0.0"><span class="stars" data-reactid=".tdn850hrwc.0.0.0.1.3.0.0.0"><span class="star selected" data-reactid=".tdn850hrwc.0.0.0.1.3.0.0.0.$5"></span><span class="star selected" data-reactid=".tdn850hrwc.0.0.0.1.3.0.0.0.$4"></span><span class="star selected" data-reactid=".tdn850hrwc.0.0.0.1.3.0.0.0.$3"></span><span class="star selected" data-reactid=".tdn850hrwc.0.0.0.1.3.0.0.0.$2"></span><span class="star selected" data-reactid=".tdn850hrwc.0.0.0.1.3.0.0.0.$1"></span></span></span><div class="star-rating-count" data-reactid=".tdn850hrwc.0.0.0.1.3.0.1"><span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" data-reactid=".tdn850hrwc.0.0.0.1.3.0.1.0"><meta itemprop="worstRating" content="1" data-reactid=".tdn850hrwc.0.0.0.1.3.0.1.0.0"><meta itemprop="bestRating" content="5" data-reactid=".tdn850hrwc.0.0.0.1.3.0.1.0.1"><meta itemprop="ratingValue" content="5.00" data-reactid=".tdn850hrwc.0.0.0.1.3.0.1.0.2"><span itemprop="ratingCount" data-reactid=".tdn850hrwc.0.0.0.1.3.0.1.0.3">1</span></span><span data-reactid=".tdn850hrwc.0.0.0.1.3.0.1.1"> review</span></div></span></div><div class="search-item-info" data-reactid=".tdn850hrwc.0.0.0.1.4"><div data-reactid=".tdn850hrwc.0.0.0.1.4.0"><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.0"><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.0.0">#</span><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.0.1">1</span><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.0.2"> of </span><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.0.3">3</span></span><a href="/best-doctors/on/toronto/homeopath/" data-reactid=".tdn850hrwc.0.0.0.1.4.0.1"><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.1.0"> </span><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.1.1">Homeopaths</span><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.1.2"> in </span><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.1.3">Toronto</span><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.1.4">,</span><span data-reactid=".tdn850hrwc.0.0.0.1.4.0.1.5">Ontario</span></a></div></div></div><div class="col-sm-3 col-md-4 search-item-extra" data-reactid=".tdn850hrwc.0.0.0.2"><div class="search-item-info" data-reactid=".tdn850hrwc.0.0.0.2.0"><div data-reactid=".tdn850hrwc.0.0.0.2.0.0"><i class="fa fa-fw fa-female" data-reactid=".tdn850hrwc.0.0.0.2.0.0.0"></i><a href="/best-doctors/on/toronto/homeopath/?gender=f" data-reactid=".tdn850hrwc.0.0.0.2.0.0.1"> Female</a></div></div><div class="search-item-info" data-reactid=".tdn850hrwc.0.0.0.2.1"><div data-reactid=".tdn850hrwc.0.0.0.2.1.0"><a href="/clinic/ca-on-toronto-kerri-flood/" itemprop="containedInPlace" itemscope itemtype="http://schema.org/MedicalClinic" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0"><link itemprop="url" href="https://www.ratemds.com/clinic/ca-on-toronto-kerri-flood/" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.0"><i class="fa fa-fw fa-building" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.1"></i><span data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.2"> </span><span itemprop="name" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.3">Kerri Flood</span><span itemscope itemprop="address" itemtype="http://schema.org/PostalAddress" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.4"><meta itemprop="streetAddress" content="390 Dupont Street" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.4.0"><meta itemprop="addressLocality" content="Toronto" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.4.1"><meta itemprop="addressRegion" content="8" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.4.2"><meta itemprop="postalCode" content="M5R1V9" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.4.3"></span><meta itemprop="telephone" content="416-579-6234" data-reactid=".tdn850hrwc.0.0.0.2.1.0.0.5"></a></div></div><div class="search-item-info" data-reactid=".tdn850hrwc.0.0.0.2.2"><div data-reactid=".tdn850hrwc.0.0.0.2.2.0"><div data-reactid=".tdn850hrwc.0.0.0.2.2.0.0"><meta itemprop="telephone" content="416-579-6234" data-reactid=".tdn850hrwc.0.0.0.2.2.0.0.0"><i class="fa fa-fw fa-phone" data-reactid=".tdn850hrwc.0.0.0.2.2.0.0.1"></i><a href="#" data-reactid=".tdn850hrwc.0.0.0.2.2.0.0.2"> View Phone Number</a></div></div></div><div class="search-item-info" data-reactid=".tdn850hrwc.0.0.0.2.3"><i class="fa fa-fw fa-map-marker" data-reactid=".tdn850hrwc.0.0.0.2.3.0"></i><span data-reactid=".tdn850hrwc.0.0.0.2.3.1"><span itemscope itemprop="address" itemtype="http://schema.org/PostalAddress" data-reactid=".tdn850hrwc.0.0.0.2.3.1.0"><meta itemprop="streetAddress" content="390 Dupont Street" data-reactid=".tdn850hrwc.0.0.0.2.3.1.0.0"><meta itemprop="addressLocality" content="Toronto" data-reactid=".tdn850hrwc.0.0.0.2.3.1.0.1"><meta itemprop="addressRegion" content="8" data-reactid=".tdn850hrwc.0.0.0.2.3.1.0.2"><meta itemprop="postalCode" content="M5R1V9" data-reactid=".tdn850hrwc.0.0.0.2.3.1.0.3"></span><a href="#" data-reactid=".tdn850hrwc.0.0.0.2.3.1.1"> View Map &amp; Address</a></span></div><div class="search-item-info" data-reactid=".tdn850hrwc.0.0.0.2.4"><div data-reactid=".tdn850hrwc.0.0.0.2.4.0"><div data-reactid=".tdn850hrwc.0.0.0.2.4.0.0"><i class="fa fa-fw fa-external-link" data-reactid=".tdn850hrwc.0.0.0.2.4.0.0.0"></i><span class="not-available" data-reactid=".tdn850hrwc.0.0.0.2.4.0.0.1"> Unavailable</span></div></div></div></div></div></div></div><span data-reactid=".tdn850hrwc.1"><nav class="navbar navbar-sub" role="navigation" data-reactid=".tdn850hrwc.1.0"><div class="container" data-reactid=".tdn850hrwc.1.0.0"><div class="navbar-header" data-reactid=".tdn850hrwc.1.0.0.0"><button type="button" class="navbar-toggle" data-reactid=".tdn850hrwc.1.0.0.0.0"><span class="sr-only" data-reactid=".tdn850hrwc.1.0.0.0.0.0">Toggle navigation</span><span class="icon-bar" data-reactid=".tdn850hrwc.1.0.0.0.0.1"></span><span class="icon-bar" data-reactid=".tdn850hrwc.1.0.0.0.0.2"></span><span class="icon-bar" data-reactid=".tdn850hrwc.1.0.0.0.0.3"></span></button><a class="navbar-brand visible-xs-block" href="#" data-reactid=".tdn850hrwc.1.0.0.0.1">ratings</a></div><div class="collapse navbar-collapse" style="display:none;" data-reactid=".tdn850hrwc.1.0.0.1"><ul class="nav navbar-nav" role="tablist" data-reactid=".tdn850hrwc.1.0.0.1.0"><li role="presentation" class="col-sm-4 active" data-reactid=".tdn850hrwc.1.0.0.1.0.0"><a href="#ratings" data-reactid=".tdn850hrwc.1.0.0.1.0.0.0">Ratings</a></li><li role="presentation" class="col-sm-4" data-reactid=".tdn850hrwc.1.0.0.1.0.1"><a href="#credentials" data-reactid=".tdn850hrwc.1.0.0.1.0.1.0">Credentials</a></li><li role="presentation" class="col-sm-4" data-reactid=".tdn850hrwc.1.0.0.1.0.2"><a href="#insurance" data-reactid=".tdn850hrwc.1.0.0.1.0.2.0">Insurance</a></li></ul></div></div></nav></span></span></div>
+</div>
+</div>
+<div class="container content-body">
+<div class="row">
+<div class="col-md-8 col-sm-12 col-main">
+<div id="left-content"><span data-reactid=".25kb28te0da" data-react-checksum="-8736646"><ol class="breadcrumb" data-reactid=".25kb28te0da.0"><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" data-reactid=".25kb28te0da.0.0"><a href="/best-doctors/" itemprop="url" data-reactid=".25kb28te0da.0.0.0"><span itemprop="title" data-reactid=".25kb28te0da.0.0.0.0">Doctors</span></a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" data-reactid=".25kb28te0da.0.1"><a href="/best-doctors/on/" itemprop="url" data-reactid=".25kb28te0da.0.1.0"><span itemprop="title" data-reactid=".25kb28te0da.0.1.0.0">Ontario</span></a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" data-reactid=".25kb28te0da.0.2"><a href="/best-doctors/on/toronto/" itemprop="url" data-reactid=".25kb28te0da.0.2.0"><span itemprop="title" data-reactid=".25kb28te0da.0.2.0.0">Toronto</span></a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" data-reactid=".25kb28te0da.0.3"><a href="/best-doctors/on/toronto/homeopath/" itemprop="url" data-reactid=".25kb28te0da.0.3.0"><span itemprop="title" data-reactid=".25kb28te0da.0.3.0.0">Homeopaths</span></a></li><li class="active" data-reactid=".25kb28te0da.0.4">Kerri Flood</li></ol><div class="ratings" data-reactid=".25kb28te0da.1"><span data-reactid=".25kb28te0da.1.0"><span data-reactid=".25kb28te0da.1.0.0"><div class="doctor-ad-container" data-reactid=".25kb28te0da.1.0.0.0"><span data-reactid=".25kb28te0da.1.0.0.0.0"></span><div class="doctor-detail-ad-container" data-reactid=".25kb28te0da.1.0.0.0.1"><div class="banner-description-section" data-reactid=".25kb28te0da.1.0.0.0.1.0"><h3 class="banner-description" data-reactid=".25kb28te0da.1.0.0.0.1.0.0">You may also like</h3><div class="banner-badge" data-reactid=".25kb28te0da.1.0.0.0.1.0.1"><div class="tooltip bottom" role="tooltip" data-reactid=".25kb28te0da.1.0.0.0.1.0.1.0"><div class="tooltip-arrow" data-reactid=".25kb28te0da.1.0.0.0.1.0.1.0.0"></div><div class="tooltip-inner" data-reactid=".25kb28te0da.1.0.0.0.1.0.1.0.1"><span data-reactid=".25kb28te0da.1.0.0.0.1.0.1.0.1.0">This banner shows a similar doctor. For information on how it can be removed visit </span><a href="/plans/doctor/" data-reactid=".25kb28te0da.1.0.0.0.1.0.1.0.1.1">RateMDs for Doctors</a><span data-reactid=".25kb28te0da.1.0.0.0.1.0.1.0.1.2">.</span></div></div><i class="fa fa-info" data-reactid=".25kb28te0da.1.0.0.0.1.0.1.1"></i></div></div><span data-reactid=".25kb28te0da.1.0.0.0.1.1"><div class="search-item doctor-profile adClass" data-doctor-id="2148520" data-reactid=".25kb28te0da.1.0.0.0.1.1.0"><a class="doctor-ad-link" href="/doctor-ratings/marilyn-freedman-toronto-on-ca" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.0"><img class="search-item-image search-item-image-sm hidden-xs" src="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-marilyn-freedman-homeopath.jpeg_thumbs/v1_at_100x100.jpg" width="100" height="100" alt="Marilyn Freedman" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.0.0"><img class="search-item-image search-item-image-xs visible-xs-inline-block" src="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-marilyn-freedman-homeopath.jpeg_thumbs/v1_at_77x77.jpg" width="77" height="77" alt="Marilyn Freedman" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.0.1"><h2 class="doctor-ad-link-name" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.0.2">Marilyn Freedman</h2></a><div class="search-item-specialty" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.2"><a href="/best-doctors/?specialty=homeopath" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.2.0">Homeopath</a></div><span data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3"><span class="star-rating" title="5.00" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.0"><span class="stars" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.0.0"><span class="star selected" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.0.0.$5"></span><span class="star selected" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.0.0.$4"></span><span class="star selected" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.0.0.$3"></span><span class="star selected" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.0.0.$2"></span><span class="star selected" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.0.0.$1"></span></span></span><div class="star-rating-count" data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.1"><span data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.1.0">1</span><span data-reactid=".25kb28te0da.1.0.0.0.1.1.0.3.1.1"> review</span></div></span></div></span></div></div></span><div class="clearfix" data-reactid=".25kb28te0da.1.0.5"><div class="pull-right" data-reactid=".25kb28te0da.1.0.5.1"></div></div><span data-reactid=".25kb28te0da.1.0.7:$ratingslist"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0"><h3 data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.0"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.0.0">Ratings for </span><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.0.1">Kerri Flood</span></h3><span class="ratings" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.0"></span><div class="rating" itemprop="review" itemscope itemtype="http://schema.org/Review" id="rating-3385229" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1"><span itemprop="author" itemscope itemtype="http://schema.org/Person" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.0"><meta itemprop="name" content="Anonymous" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.0.0"></span><meta itemprop="itemReviewed" content="/doctor-ratings/kerri-flood-toronto-on-ca" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.1"><div class="row rating-numbers-compact" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2"><div class="col-sm-7" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0"><div class="row" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0"><div class="col-xs-3 rating-number" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.0"><i class="icon fa fa-user" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.0.0"></i><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.0.1"> </span><span class="value" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.0.2">5</span><div class="type" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.0.3">Staff</div></div><div class="col-xs-3 rating-number" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.1"><i class="icon fa fa-clock-o" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.1.0"></i><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.1.1"> </span><span class="value" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.1.2">5</span><div class="type" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.1.3">Punctuality</div></div><div class="col-xs-3 rating-number" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.2"><i class="icon fa fa-question-circle" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.2.0"></i><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.2.1"> </span><span class="value" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.2.2">5</span><div class="type" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.2.3">Helpfulness</div></div><div class="col-xs-3 rating-number" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.3"><i class="icon fa fa-lightbulb-o" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.3.0"></i><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.3.1"> </span><span class="value" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.3.2">5</span><div class="type" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.0.0.0.3.3">Knowledge</div></div></div></span></div><div class="col-sm-5 rating-average hidden-xs" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1"><meta itemprop="ratingValue" content="5.0" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1.0"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1.1"><span class="star-rating" title="5.00" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1.1.0"><span class="stars" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1.1.0.0"><span class="star selected" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1.1.0.0.$5"></span><span class="star selected" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1.1.0.0.$4"></span><span class="star selected" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1.1.0.0.$3"></span><span class="star selected" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1.1.0.0.$2"></span><span class="star selected" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.2.1.1.0.0.$1"></span></span></span></span></div></div><div class="rating-comment" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3"><p itemprop="reviewBody" class="rating-comment-body" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.0"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.0.0">My experience seeing Kerri has been incredibly profound. She listens attentively with a caring curiosity, and hones in on important details that could easily be missed. Kerri is also incredibly knowledgeable and often draws from current scientific findings relevant to my treatment. It was incredible how much easier it was to follow her lifestyle and nutrition recommendations after taking the remedy she prescribed. I am very pleased by the shifts I have experienced after just one session.</span></p><meta itemprop="dateCreated datePublished" content="2017-03-03T16:47:56.050Z" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.1"><p class="rating-comment-votes pull-left" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.2"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.2.0">Was this rating useful? </span><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.2.1">0</span><a href="#" class="rating-vote" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.2.2"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.2.2.0"> </span><i class="fa fa-thumbs-o-up" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.2.2.1"></i></a></p><p class="rating-comment-created pull-right" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.3"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.3.0"><a href="#" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.3.0.0">flag</a><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.3.0.1"> | </span></span><a href="#ratings/rating-3385229" class="link-plain" data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.3.1"><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.3.1.0">Submitted </span><span data-reactid=".25kb28te0da.1.0.7:$ratingslist.0.2.$3385229.1.3.3.1.1">March 3, 2017</span></a></p></div></div></span></span></span></span><nav data-reactid=".25kb28te0da.1.0.7:$ratingspaginator"><ul class="pagination pagination-sm" data-reactid=".25kb28te0da.1.0.7:$ratingspaginator.0"><li class="disabled" data-reactid=".25kb28te0da.1.0.7:$ratingspaginator.0.0"></li></ul></nav></span></div><div class="credentials" data-reactid=".25kb28te0da.2"><span data-reactid=".25kb28te0da.2.0"><a href="#ratings" class="btn btn-success pull-right" data-reactid=".25kb28te0da.2.0.0"><i class="fa fa-star" data-reactid=".25kb28te0da.2.0.0.0"></i><span data-reactid=".25kb28te0da.2.0.0.1"> Rate this Doctor</span></a><h2 class="subtitle" data-reactid=".25kb28te0da.2.0.1"><span data-reactid=".25kb28te0da.2.0.1.0">Kerri Flood</span><span data-reactid=".25kb28te0da.2.0.1.1">&#x27;s Credentials</span></h2><hr data-reactid=".25kb28te0da.2.0.2"><span data-reactid=".25kb28te0da.2.0.3"><div class="widget widget-main widget-hospitals-main" data-reactid=".25kb28te0da.2.0.3.0"><h4 class="text-blue" data-reactid=".25kb28te0da.2.0.3.0.0"><i class="fa fa-building-o" data-reactid=".25kb28te0da.2.0.3.0.0.0"></i><span data-reactid=".25kb28te0da.2.0.3.0.0.1"> Facility Affiliations</span></h4><div class="row" data-reactid=".25kb28te0da.2.0.3.0.1"><div class="container-fluid" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0"><div class="widget-item widget-hospital col-sm-3 col-xs-6" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025"><a href="/clinic/ca-on-toronto-kerri-flood/" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0"><img src="//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_165x165.jpg" alt="Kerri Flood" title="Kerri Flood" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.0"><div class="widget-name" title="Kerri Flood" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.1">Kerri Flood</div><span data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.2"><span class="star-rating star-rating-empty" title="0" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.2.0"><span class="stars" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.2.0.0"><span class="star" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.2.0.0.$5"></span><span class="star" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.2.0.0.$4"></span><span class="star" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.2.0.0.$3"></span><span class="star" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.2.0.0.$2"></span><span class="star" data-reactid=".25kb28te0da.2.0.3.0.1.$dlr0.$2326025.0.2.0.0.$1"></span></span></span></span></a></div></div></div></div><hr data-reactid=".25kb28te0da.2.0.3.1"></span><h4 class="text-blue" data-reactid=".25kb28te0da.2.0.4"><i class="fa fa-users" data-reactid=".25kb28te0da.2.0.4.0"></i><span data-reactid=".25kb28te0da.2.0.4.1"> Accepting New Patients</span></h4><p data-reactid=".25kb28te0da.2.0.$accepting">Yes, this doctor is accepting new patients</p><hr data-reactid=".25kb28te0da.2.0.6"><h4 class="text-red" data-reactid=".25kb28te0da.2.0.7"><i class="fa fa-list-alt" data-reactid=".25kb28te0da.2.0.7.0"></i><span data-reactid=".25kb28te0da.2.0.7.1"> Biography</span></h4><p class="text-gray-middle" data-reactid=".25kb28te0da.2.0.8">Unavailable</p><hr data-reactid=".25kb28te0da.2.0.9"><h4 class="text-orange-dark" data-reactid=".25kb28te0da.2.0.a"><i class="fa fa-comment-o" data-reactid=".25kb28te0da.2.0.a.0"></i><span data-reactid=".25kb28te0da.2.0.a.1"> Languages</span></h4><ul class="credentials list-inline list-comma-seperated" data-reactid=".25kb28te0da.2.0.b"><li data-reactid=".25kb28te0da.2.0.b.$182">English</li></ul><hr data-reactid=".25kb28te0da.2.0.c"><h4 class="text-purple" data-reactid=".25kb28te0da.2.0.d"><i class="fa fa-user-md" data-reactid=".25kb28te0da.2.0.d.0"></i><span data-reactid=".25kb28te0da.2.0.d.1"> Education</span></h4><ul class="credentials" data-reactid=".25kb28te0da.2.0.e"><li data-reactid=".25kb28te0da.2.0.e.$876644"><span data-reactid=".25kb28te0da.2.0.e.$876644.0">University of Toronto</span><span data-reactid=".25kb28te0da.2.0.e.$876644.1"> (Grad. 1998)</span></li></ul><hr data-reactid=".25kb28te0da.2.0.f"><h4 class="text-blue-dark" data-reactid=".25kb28te0da.2.0.g"><i class="fa fa-medkit" data-reactid=".25kb28te0da.2.0.g.0"></i><span data-reactid=".25kb28te0da.2.0.g.1"> Other Specialties</span></h4><ul class="credentials list-inline list-comma-seperated" data-reactid=".25kb28te0da.2.0.h"><li data-reactid=".25kb28te0da.2.0.h.$2846"><a href="/specialties/homeopath/" data-reactid=".25kb28te0da.2.0.h.$2846.0">Homeopath</a></li></ul><hr data-reactid=".25kb28te0da.2.0.i"><h4 class="text-magenta" data-reactid=".25kb28te0da.2.0.j"><i class="fa fa-stethoscope" data-reactid=".25kb28te0da.2.0.j.0"></i><span data-reactid=".25kb28te0da.2.0.j.1"> Areas of Expertise</span></h4><p class="text-gray-middle" data-reactid=".25kb28te0da.2.0.k">Unavailable</p><hr data-reactid=".25kb28te0da.2.0.l"><h4 class="text-success" data-reactid=".25kb28te0da.2.0.m"><i class="fa fa-bookmark" data-reactid=".25kb28te0da.2.0.m.0"></i><span data-reactid=".25kb28te0da.2.0.m.1"> Awards &amp; Recognitions</span></h4><p class="text-gray-middle" data-reactid=".25kb28te0da.2.0.n">Unavailable</p><hr data-reactid=".25kb28te0da.2.0.o"><h4 class="text-orange" data-reactid=".25kb28te0da.2.0.p"><i class="fa fa-book" data-reactid=".25kb28te0da.2.0.p.0"></i><span data-reactid=".25kb28te0da.2.0.p.1"> Publications &amp; Research</span></h4><p class="text-gray-middle" data-reactid=".25kb28te0da.2.0.q">Unavailable</p><hr data-reactid=".25kb28te0da.2.0.r"></span></div><div class="insurance" data-reactid=".25kb28te0da.3"><span data-reactid=".25kb28te0da.3.0"><h2 class="heading-withsub subtitle" data-reactid=".25kb28te0da.3.0.0">Insurance accepted by this Doctor</h2><div class="heading-sub" data-reactid=".25kb28te0da.3.0.1">Other patients have successfully used these insurance providers, please call the Doctor&#x27;s office to find out if your insurance plan is accepted.</div><div class="insurance-providers" data-reactid=".25kb28te0da.3.0.2"><span data-reactid=".25kb28te0da.3.0.2.0"><div class="insurance-provider" data-reactid=".25kb28te0da.3.0.2.0.$United Healthcare"><strong data-reactid=".25kb28te0da.3.0.2.0.$United Healthcare.0">United Healthcare</strong></div></span></div></span></div></span></div>
+<div class="widget widget-main widget-hospitals-main">
+<h3>
+Top
+Hospitals
+in Toronto, ON
+</h3>
+<div class="row">
+<div class="widget-item widget-hospital col-sm-3 col-xs-6">
+<a href="/hospital/ca-on-toronto-hospital-for-sick-children/">
+<img src="https://cdn1.ratemds.com/media/locations/location/image/Hospital_for_Sick_Children_Atrium.jpg_thumbs/v1_at_165x165.jpg" alt="Hospital for Sick Children" title="Hospital for Sick Children">
+<div class="widget-name" title="Hospital for Sick Children">Hospital for Sick Children</div>
+<span class="star-rating " title="4.03">
+<span class="stars"><span class="
+        star
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span>
+</span>
+</span>
+</a>
+</div>
+<div class="widget-item widget-hospital col-sm-3 col-xs-6">
+<a href="/hospital/ca-on-toronto-mount-sinai-hospital/">
+<img src="https://cdn1.ratemds.com/media/locations/location/image/mount_sinai.jpg_thumbs/v1_at_165x165.jpg" alt="Mount Sinai Hospital" title="Mount Sinai Hospital">
+<div class="widget-name" title="Mount Sinai Hospital">Mount Sinai Hospital</div>
+<span class="star-rating " title="3.4">
+<span class="stars"><span class="
+        star
+        
+      "></span><span class="
+        star
+         half
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span>
+</span>
+</span>
+</a>
+</div>
+<div class="widget-item widget-hospital col-sm-3 col-xs-6">
+<a href="/hospital/ca-on-toronto-st-michaels-hospital-985/">
+<img src="https://cdn1.ratemds.com/media/locations/location/image/smh.jpg_thumbs/v1_at_165x165.jpg" alt="St. Michael&#39;s Hospital" title="St. Michael&#39;s Hospital">
+<div class="widget-name" title="St. Michael&#39;s Hospital">St. Michael&#39;s Hospital</div>
+<span class="star-rating " title="3.29">
+<span class="stars"><span class="
+        star
+        
+      "></span><span class="
+        star
+         half
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span>
+</span>
+</span>
+</a>
+</div>
+<div class="widget-item widget-hospital col-sm-3 col-xs-6">
+<a href="/hospital/ca-on-toronto-princess-margaret-hospital-93/">
+<img src="https://cdn1.ratemds.com/media/locations/location/image/20110403_1700_DSCN6235_adjusted.jpg_thumbs/v1_at_165x165.jpg" alt="Princess Margaret Hospital" title="Princess Margaret Hospital">
+<div class="widget-name" title="Princess Margaret Hospital">Princess Margaret Hospital</div>
+<span class="star-rating " title="3.18">
+<span class="stars"><span class="
+        star
+        
+      "></span><span class="
+        star
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span>
+</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<hr>
+<div class="widget widget-main widget-hospitals-main">
+<h3>
+Top
+Urgent Care Centers
+in Toronto, ON
+</h3>
+<div class="row">
+<div class="widget-item widget-hospital col-sm-3 col-xs-6">
+<a href="/urgent-care/ca-on-toronto-northtown-medical-clinic-walk-in-clinic/">
+<img src="https://cdn1.ratemds.com/media/locations/location/image/northtown.jpg_thumbs/v1_at_165x165.jpg" alt="Northtown Medical Clinic | Walk-In Clinic" title="Northtown Medical Clinic | Walk-In Clinic">
+<div class="widget-name" title="Northtown Medical Clinic | Walk-In Clinic">Northtown Medical Clinic | Walk-In Clinic</div>
+<span class="star-rating " title="4.53">
+<span class="stars"><span class="
+        star
+         half
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span>
+</span>
+</span>
+</a>
+</div>
+<div class="widget-item widget-hospital col-sm-3 col-xs-6">
+<a href="/urgent-care/ca-on-toronto-cloud-care-clinics/">
+<img src="https://cdn1.ratemds.com/media/locations/location/image/cloud_care.jpg_thumbs/v1_at_165x165.jpg" alt="CLOUD CARE CLINICS" title="CLOUD CARE CLINICS">
+<div class="widget-name" title="CLOUD CARE CLINICS">CLOUD CARE CLINICS</div>
+<span class="star-rating " title="3.25">
+<span class="stars"><span class="
+        star
+        
+      "></span><span class="
+        star
+         half
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span>
+</span>
+</span>
+</a>
+</div>
+<div class="widget-item widget-hospital col-sm-3 col-xs-6">
+<a href="/urgent-care/ca-on-toronto-carlton-church-walk-in-medical-clinic/">
+<img src="https://cdn1.ratemds.com/media/locations/location/image/cc.jpg_thumbs/v1_at_165x165.jpg" alt="Carlton &amp; Church Walk-In &amp; Medical Clinic" title="Carlton &amp; Church Walk-In &amp; Medical Clinic">
+<div class="widget-name" title="Carlton &amp; Church Walk-In &amp; Medical Clinic">Carlton &amp; Church Walk-In &amp; Medical Clinic</div>
+<span class="star-rating " title="3.83">
+<span class="stars"><span class="
+        star
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span>
+</span>
+</span>
+</a>
+</div>
+<div class="widget-item widget-hospital col-sm-3 col-xs-6">
+<a href="/urgent-care/ca-on-toronto-medvisit-doctors-housecall-service/">
+<img src="//www.ratemds.com/static/img/locations/urgent-care.png_thumbs/v1_at_165x165.jpg" alt="MedVisit Doctors Housecall Service" title="MedVisit Doctors Housecall Service">
+<div class="widget-name" title="MedVisit Doctors Housecall Service">MedVisit Doctors Housecall Service</div>
+<span class="star-rating " title="4.0">
+<span class="stars"><span class="
+        star
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span><span class="
+        star
+         selected
+        
+      "></span>
+</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<hr>
+<div class="widget-specialties-main hidden-xs">
+<h3>Find a Doctor by Specialty</h3>
+<div class="row">
+<div class="col-sm-6">
+<ul class="list-unstyled first">
+<li><a href="/best-doctors/?specialty=acupuncturist">
+Acupuncturist
+</a></li>
+<li><a href="/best-doctors/?specialty=addiction-medicine">
+Addiction Medicine Specialist
+</a></li>
+<li><a href="/best-doctors/?specialty=allergist-immunologist">
+Allergist / Immunologist
+</a></li>
+<li><a href="/best-doctors/?specialty=anesthesiologist">
+Anesthesiologist
+</a></li>
+<li><a href="/best-doctors/?specialty=audiologist">
+Audiologist
+</a></li>
+<li><a href="/best-doctors/?specialty=bariatric-weight-loss">
+Bariatric / Weight Loss Specialist
+</a></li>
+<li><a href="/best-doctors/?specialty=cardiologist">
+Cardiologist
+</a></li>
+<li><a href="/best-doctors/?specialty=cardiothoracic-surgeon">
+Cardiothoracic Surgeon
+</a></li>
+<li><a href="/best-doctors/?specialty=chiropractor">
+Chiropractor
+</a></li>
+<li><a href="/best-doctors/?specialty=colorectal-proctologist">
+Colorectal Surgeon / Proctologist
+</a></li>
+<li><a href="/best-doctors/?specialty=dentist">
+Dentist
+</a></li>
+<li><a href="/best-doctors/?specialty=dermatologist">
+Dermatologist
+</a></li>
+<li><a href="/best-doctors/?specialty=ear-nose-and-throat-ent">
+Ear Nose and Throat (ENT) Doctor
+</a></li>
+</ul>
+</div>
+<div class="col-sm-6">
+<ul class="list-unstyled">
+<li><a href="/best-doctors/?specialty=emergency-critical">
+Emergency Room Doctor
+</a></li>
+<li><a href="/best-doctors/?specialty=endocrinologist">
+Endocrinologist
+</a></li>
+<li><a href="/best-doctors/?specialty=endodontist-root-canal">
+Endodontist (root canal)
+</a></li>
+<li><a href="/best-doctors/?specialty=family-gp">
+ Family Doctor / G.P.
+</a></li>
+<li><a href="/best-doctors/?specialty=gastroenterologist">
+Gastroenterologist
+</a></li>
+<li><a href="/best-doctors/?specialty=geneticist">
+Geneticist
+</a></li>
+<li><a href="/best-doctors/?specialty=gynecologist-obgyn">
+Gynecologist (OBGYN)
+</a></li>
+<li><a href="/best-doctors/?specialty=homeopath">
+Homeopath
+</a></li>
+<li><a href="/best-doctors/?specialty=infectious-disease">
+Infectious Disease Specialist
+</a></li>
+<li><a href="/best-doctors/?specialty=internist-geriatrician">
+Internist / Geriatrician
+</a></li>
+<li><a href="/best-doctors/?specialty=registered-massage-therapist">
+Massage Therapist (registered or licensed)
+</a></li>
+<li><a href="/best-doctors/?specialty=midwife">
+Midwife
+</a></li>
+<li><a href="/best-doctors/?specialty=naturopath">
+Naturopath
+</a></li>
+<li class="widget-specialties-all"><a href="/specialties/">
+View all Specialties >
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-right">
+<div class="hidden-xs hidden-sm">
+<div id="RateMDs_com_300x250_TopRight_OH_Content" class="ad">
+<script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display("RateMDs_com_300x250_TopRight_OH_Content"); });
+              </script>
+</div>
+<div class="widget widget-posts-featured">
+<h3>Featured News</h3>
+<div class="post-large post-category-health widget-item">
+<div class="post-image">
+<a href="https://www.ratemds.com/blog/all-about-californias-current-std-epidemic/">
+<img src="https://www.ratemds.com/blog/wp-content/uploads/2017/09/stds-294x214.jpg" alt="All About California’s Current STD Epidemic">
+</a>
+<a href="https://www.ratemds.com/blog/category/health/" class="post-category ">
+Health
+</a>
+</div>
+<div class="post-title">
+<a href="https://www.ratemds.com/blog/all-about-californias-current-std-epidemic/">All About California’s Current STD Epidemic</a>
+</div>
+</div>
+<hr>
+<div class="post post-category-nutrition widget-item">
+<a href="https://www.ratemds.com/blog/why-is-basil-is-so-good-for-you/">
+<img src="https://www.ratemds.com/blog/wp-content/uploads/2018/05/shutterstock_257171830-70x70.jpg" alt="Why is Basil is So Good For You?">
+</a>
+<div class="post-category">
+<a href="https://www.ratemds.com/blog/category/nutrition/">
+Nutrition
+</a>
+</div>
+<div class="post-title">
+<a href="https://www.ratemds.com/blog/why-is-basil-is-so-good-for-you/">Why is Basil is So Good For You?</a>
+</div>
+</div>
+<hr>
+<div class="post post-category-seniors-health widget-item">
+<a href="https://www.ratemds.com/blog/how-exergaming-is-pushing-back-at-alzheimers-disease/">
+<img src="https://www.ratemds.com/blog/wp-content/uploads/2018/05/video-games-70x70.jpg" alt="How Exergaming is Pushing Back at Alzheimer’s Disease">
+</a>
+<div class="post-category">
+<a href="https://www.ratemds.com/blog/category/health/seniors-health/">
+Senior&#39;s Health
+</a>
+</div>
+<div class="post-title">
+<a href="https://www.ratemds.com/blog/how-exergaming-is-pushing-back-at-alzheimers-disease/">How Exergaming is Pushing Back at Alzheimer’s Disease</a>
+</div>
+</div>
+</div>
+<div class="widget widget-social">
+<h3>Follow Us</h3>
+<ul class="list-unstyled list-inline">
+<li class="facebook">
+<a href="https://www.facebook.com/ratemdsdotcom" onclick="return clickTrack('https://www.facebook.com/ratemdsdotcom', 'outbound', 'click');" title="Facebook">
+<i class="fa fa-facebook-square"></i>
+</a>
+</li>
+<li class="twitter">
+<a href="https://twitter.com/RateMDsdotcom" onclick="return clickTrack('https://twitter.com/RateMDsdotcom', 'outbound', 'click');" title="Twitter">
+<i class="fa fa-twitter-square"></i>
+</a>
+</li>
+<li class="google">
+<a href="https://plus.google.com/+ratemds" onclick="return clickTrack('https://plus.google.com/+ratemds', 'outbound', 'click');" title="Google+">
+<i class="fa fa-google-plus-square"></i>
+</a>
+</li>
+</ul>
+</div>
+<div id="doctor-detail-side-ad-container">
+<span data-reactid=".uh9q2ljwk4" data-react-checksum="-1810256899"><div class="widget doctor-detail-ad-container doctor-detail-ad-container--sidebar" data-reactid=".uh9q2ljwk4.0"><h3 data-reactid=".uh9q2ljwk4.0.0">You may also like</h3><span data-reactid=".uh9q2ljwk4.0.1"><div class="search-item doctor-profile adClass" data-doctor-id="2148520" data-reactid=".uh9q2ljwk4.0.1.0"><a class="doctor-ad-link" href="/doctor-ratings/marilyn-freedman-toronto-on-ca" data-reactid=".uh9q2ljwk4.0.1.0.0"><img class="search-item-image search-item-image-sm hidden-xs" src="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-marilyn-freedman-homeopath.jpeg_thumbs/v1_at_100x100.jpg" width="100" height="100" alt="Marilyn Freedman" data-reactid=".uh9q2ljwk4.0.1.0.0.0"><img class="search-item-image search-item-image-xs visible-xs-inline-block" src="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-marilyn-freedman-homeopath.jpeg_thumbs/v1_at_77x77.jpg" width="77" height="77" alt="Marilyn Freedman" data-reactid=".uh9q2ljwk4.0.1.0.0.1"><h2 class="doctor-ad-link-name" data-reactid=".uh9q2ljwk4.0.1.0.0.2">Marilyn Freedman</h2></a><div class="search-item-specialty" data-reactid=".uh9q2ljwk4.0.1.0.2"><a href="/best-doctors/?specialty=homeopath" data-reactid=".uh9q2ljwk4.0.1.0.2.0">Homeopath</a></div><span data-reactid=".uh9q2ljwk4.0.1.0.3"><span class="star-rating" title="5.00" data-reactid=".uh9q2ljwk4.0.1.0.3.0"><span class="stars" data-reactid=".uh9q2ljwk4.0.1.0.3.0.0"><span class="star selected" data-reactid=".uh9q2ljwk4.0.1.0.3.0.0.$5"></span><span class="star selected" data-reactid=".uh9q2ljwk4.0.1.0.3.0.0.$4"></span><span class="star selected" data-reactid=".uh9q2ljwk4.0.1.0.3.0.0.$3"></span><span class="star selected" data-reactid=".uh9q2ljwk4.0.1.0.3.0.0.$2"></span><span class="star selected" data-reactid=".uh9q2ljwk4.0.1.0.3.0.0.$1"></span></span></span><div class="star-rating-count" data-reactid=".uh9q2ljwk4.0.1.0.3.1"><span data-reactid=".uh9q2ljwk4.0.1.0.3.1.0">1</span><span data-reactid=".uh9q2ljwk4.0.1.0.3.1.1"> review</span></div></span></div></span></div></span>
+</div>
+<div id="doctor-detail-side-top-doctors-list-container">
+<div class="widget widget-doctors-top" data-reactid=".1y29ww2hpus" data-react-checksum="-841441891"><h3 data-reactid=".1y29ww2hpus.0"><span data-reactid=".1y29ww2hpus.0.0">Top </span><span data-reactid=".1y29ww2hpus.0.1">Homeopaths</span></h3><div class="widget-subheading" data-reactid=".1y29ww2hpus.1"><span data-reactid=".1y29ww2hpus.1.0">in </span><span data-reactid=".1y29ww2hpus.1.1">Toronto, ON</span><span data-reactid=".1y29ww2hpus.1.2"> </span></div><div class="widget-underline" data-reactid=".1y29ww2hpus.2:$0"><div class="widget-doctor widget-item" data-reactid=".1y29ww2hpus.2:$0.0"><a href="/doctor-ratings/kerri-flood-toronto-on-ca" data-reactid=".1y29ww2hpus.2:$0.0.0"><img src="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-kerri-flood-homeopath.jpg_thumbs/v1_at_70x70.jpg" width="70" height="70" alt="Kerri Flood" data-reactid=".1y29ww2hpus.2:$0.0.0.0"></a><a href="/doctor-ratings/kerri-flood-toronto-on-ca" data-reactid=".1y29ww2hpus.2:$0.0.1">Kerri Flood</a><br data-reactid=".1y29ww2hpus.2:$0.0.2"><span data-reactid=".1y29ww2hpus.2:$0.0.3"><span class="star-rating" title="5.00" data-reactid=".1y29ww2hpus.2:$0.0.3.0"><span class="stars" data-reactid=".1y29ww2hpus.2:$0.0.3.0.0"><span class="star selected" data-reactid=".1y29ww2hpus.2:$0.0.3.0.0.$5"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$0.0.3.0.0.$4"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$0.0.3.0.0.$3"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$0.0.3.0.0.$2"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$0.0.3.0.0.$1"></span></span></span><div class="star-rating-count" data-reactid=".1y29ww2hpus.2:$0.0.3.1"><span data-reactid=".1y29ww2hpus.2:$0.0.3.1.0">1</span><span data-reactid=".1y29ww2hpus.2:$0.0.3.1.1"> review</span></div></span><br data-reactid=".1y29ww2hpus.2:$0.0.4"><span data-reactid=".1y29ww2hpus.2:$0.0.5">#</span><span data-reactid=".1y29ww2hpus.2:$0.0.6">1</span><span data-reactid=".1y29ww2hpus.2:$0.0.7"> of </span><span data-reactid=".1y29ww2hpus.2:$0.0.8">3</span></div></div><div class="widget-underline" data-reactid=".1y29ww2hpus.2:$1"><div class="widget-doctor widget-item" data-reactid=".1y29ww2hpus.2:$1.0"><a href="/doctor-ratings/marilyn-freedman-toronto-on-ca" data-reactid=".1y29ww2hpus.2:$1.0.0"><img src="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-marilyn-freedman-homeopath.jpeg_thumbs/v1_at_70x70.jpg" width="70" height="70" alt="Marilyn Freedman" data-reactid=".1y29ww2hpus.2:$1.0.0.0"></a><a href="/doctor-ratings/marilyn-freedman-toronto-on-ca" data-reactid=".1y29ww2hpus.2:$1.0.1">Marilyn Freedman</a><br data-reactid=".1y29ww2hpus.2:$1.0.2"><span data-reactid=".1y29ww2hpus.2:$1.0.3"><span class="star-rating" title="5.00" data-reactid=".1y29ww2hpus.2:$1.0.3.0"><span class="stars" data-reactid=".1y29ww2hpus.2:$1.0.3.0.0"><span class="star selected" data-reactid=".1y29ww2hpus.2:$1.0.3.0.0.$5"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$1.0.3.0.0.$4"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$1.0.3.0.0.$3"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$1.0.3.0.0.$2"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$1.0.3.0.0.$1"></span></span></span><div class="star-rating-count" data-reactid=".1y29ww2hpus.2:$1.0.3.1"><span data-reactid=".1y29ww2hpus.2:$1.0.3.1.0">1</span><span data-reactid=".1y29ww2hpus.2:$1.0.3.1.1"> review</span></div></span><br data-reactid=".1y29ww2hpus.2:$1.0.4"><span data-reactid=".1y29ww2hpus.2:$1.0.5">#</span><span data-reactid=".1y29ww2hpus.2:$1.0.6">2</span><span data-reactid=".1y29ww2hpus.2:$1.0.7"> of </span><span data-reactid=".1y29ww2hpus.2:$1.0.8">3</span></div></div><div data-reactid=".1y29ww2hpus.2:$2"><div class="widget-doctor widget-item" data-reactid=".1y29ww2hpus.2:$2.0"><a href="/doctor-ratings/mahsa-asasi-toronto-on-ca" data-reactid=".1y29ww2hpus.2:$2.0.0"><img src="https://cdn1.ratemds.com/media/doctors/doctor/image/doctor-mahsa-asasi-homeopath.jpg_thumbs/v1_at_70x70.jpg" width="70" height="70" alt="Mahsa Asasi" data-reactid=".1y29ww2hpus.2:$2.0.0.0"></a><a href="/doctor-ratings/mahsa-asasi-toronto-on-ca" data-reactid=".1y29ww2hpus.2:$2.0.1">Mahsa Asasi</a><br data-reactid=".1y29ww2hpus.2:$2.0.2"><span data-reactid=".1y29ww2hpus.2:$2.0.3"><span class="star-rating" title="2.00" data-reactid=".1y29ww2hpus.2:$2.0.3.0"><span class="stars" data-reactid=".1y29ww2hpus.2:$2.0.3.0.0"><span class="star" data-reactid=".1y29ww2hpus.2:$2.0.3.0.0.$5"></span><span class="star" data-reactid=".1y29ww2hpus.2:$2.0.3.0.0.$4"></span><span class="star" data-reactid=".1y29ww2hpus.2:$2.0.3.0.0.$3"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$2.0.3.0.0.$2"></span><span class="star selected" data-reactid=".1y29ww2hpus.2:$2.0.3.0.0.$1"></span></span></span><div class="star-rating-count" data-reactid=".1y29ww2hpus.2:$2.0.3.1"><span data-reactid=".1y29ww2hpus.2:$2.0.3.1.0">1</span><span data-reactid=".1y29ww2hpus.2:$2.0.3.1.1"> review</span></div></span><br data-reactid=".1y29ww2hpus.2:$2.0.4"><span data-reactid=".1y29ww2hpus.2:$2.0.5">#</span><span data-reactid=".1y29ww2hpus.2:$2.0.6">3</span><span data-reactid=".1y29ww2hpus.2:$2.0.7"> of </span><span data-reactid=".1y29ww2hpus.2:$2.0.8">3</span></div></div></div>
+</div>
+<div id="RateMDs_com_300x600_BottomLeft_OH_Content" class="ad">
+<script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display("RateMDs_com_300x600_BottomLeft_OH_Content"); });
+                </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> 
+<div class="ad-footer hidden-sm hidden-md hidden-lg">
+<div id="RateMDs_com_300x250_Bottom_OH_Content" class="ad">
+<script type="text/javascript">
+          googletag.cmd.push(function() { googletag.display("RateMDs_com_300x250_Bottom_OH_Content"); });
+        </script>
+</div>
+</div>
+<div class="email-subscription">
+<p>Sign up for our newsletter to get the latest health news and tips.</p>
+<form action="https://nursinghomesmiles.us8.list-manage.com/subscribe/post?u=999483c49b8c331b615431e03&amp;id=01a7fee069" method="post" target="_blank" novalidate>
+<div style="position: absolute; left: -5000px;">
+
+<label for="b_999483c49b8c331b615431e03_01a7fee069">Name</label>
+<input type="text" name="b_999483c49b8c331b615431e03_01a7fee069" id="b_999483c49b8c331b615431e03_01a7fee069" tabindex="-1" value="">
+</div>
+<div class="input-group">
+<input type="email" id="mailchimp" value="" name="EMAIL" placeholder="Email Address" class="form-control" required>
+<label for="mailchimp" class="hidden">Email Address</label>
+<span class="input-group-btn">
+<button type="submit" class="btn btn-success">Subscribe</button>
+</span>
+</div>
+</form>
+</div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-sm-3 col-xs-6 footer-column"><div>
+<div class="list-heading">About RateMDs</div>
+<ul class="list-unstyled">
+<li><a href="/about/">About</a></li>
+<li><a href="/about/press/">Press</a></li>
+<li><a href="/about/contact/">Contact</a></li>
+<li><a href="/about/faq/">FAQ</a></li>
+<li><a href="/about/advertise/">Advertise</a></li>
+<li><a href="/about/copyright/">Copyright</a></li>
+<li><a href="/about/privacy/">Privacy</a> &amp; <a href="/about/terms/">Terms</a></li>
+<li ng-controller="AuthCtrl">
+<a href="/plans/doctor/" class="claim-doctor-profile">
+Claim Doctor Profile
+</a>
+</li>
+</ul>
+</div></div>
+<div class="col-sm-3 col-xs-6 footer-column"><div>
+<div class="list-heading">Top Specialties</div>
+<ul class="list-unstyled">
+<li><a href="/specialties/family-gp/">
+Family G.P.
+</a></li>
+<li><a href="/specialties/gynecologist-obgyn/">
+Gynecologist/OBGYN
+</a></li>
+<li><a href="/specialties/dentist/">
+Dentist
+</a></li>
+<li><a href="/specialties/orthopedics-sports/">
+Orthopedics/Sports
+</a></li>
+<li><a href="/specialties/cosmetic-plastic-surgeon/">
+Cosmetic Surgeon
+</a></li>
+<li><a href="/specialties/dermatologist/">
+Dermatologist
+</a></li>
+<li><a href="/specialties/gastroenterologist/">
+Gastroenterologist
+</a></li>
+<li><a href="/specialties/">View all specialties ></a></li>
+</ul>
+</div></div>
+<div class="col-sm-3 col-xs-6 footer-column"><div>
+<div class="list-heading">Top Local Doctors</div>
+<ul class="list-unstyled">
+<li><a href="/best-doctors/ny/new-york/">
+New York
+</a></li>
+<li><a href="/best-doctors/il/chicago/">
+Chicago
+</a></li>
+<li><a href="/best-doctors/tx/houston/">
+Houston
+</a></li>
+<li><a href="/best-doctors/ca/los-angeles/">
+Los Angeles
+</a></li>
+<li><a href="/best-doctors/ma/boston/">
+Boston
+</a></li>
+<li><a href="/best-doctors/on/toronto/">
+Toronto
+</a></li>
+<li><a href="/best-doctors/pa/philadelphia/">
+Philadelphia
+</a></li>
+</ul>
+</div></div>
+<div class="col-sm-3 col-xs-6 footer-column"><div>
+<div class="list-heading">Follow Us</div>
+<ul class="list-unstyled">
+<li><a href="https://www.facebook.com/ratemdsdotcom">
+<i class="fa fa-fw fa-facebook-square"></i>
+Facebook
+</a></li>
+<li><a href="https://twitter.com/RateMDsdotcom">
+<i class="fa fa-fw fa-twitter-square"></i>
+Twitter
+</a></li>
+<li><a href="https://plus.google.com/+ratemds">
+<i class="fa fa-fw fa-google-plus-square"></i>
+Google+
+</a></li>
+</ul>
+</div></div>
+</div>
+</div>
+</footer>
+<div class="copyright">
+&copy;2004-2018 RateMDs Inc. <span class="hidden-xs">-</span>
+<br class="visible-xs-inline">
+The original and largest doctor rating site.
+</div>
+<div class="hidden-sm hidden-md hidden-lg mobile-ad fixed-ad">
+<div id="RateMds_com_320x50_Bottom_OH_Content" style="width: auto; height: auto;">
+<script type="text/javascript">
+          googletag.cmd.push(function() { googletag.display("RateMds_com_320x50_Bottom_OH_Content"); });
+        </script>
+</div>
+</div>
+<script>
+        window.DATA = {};
+        window.URLS = {"reports:canadian_doctor_claimed_csv": [["reports/canadian_doctor_claimed.csv", []]], "api:city-detail": [["api/city/%(pk)s/", ["pk"]]], "api:doctorrating-detail": [["api/doctor_rating/%(pk)s/", ["pk"]]], "paid_terms": [["about/terms/paid/", []]], "api:province-list": [["api/province/", []]], "update_card": [["accounts/update_card", []]], "doctor-subpoena": [["doctors/%(pk)s/subpoena/", ["pk"]]], "api:doctorupdate-detail": [["api/doctor_update/%(pk)s/", ["pk"]]], "reports:metrics_csv": [["reports/metrics_%(from)s_to_%(to)s.csv", ["from", "to"]]], "location-list-local": [["facilities/local/", []]], "api:plan-detail": [["api/plans/%(pk)s/", ["pk"]]], "api:doctorupdate-list": [["api/doctor_update/", []]], "api:doctorrating-toggle-vote": [["api/doctor_rating/%(pk)s/toggle_vote/", ["pk"]]], "copyright": [["about/copyright/", []]], "location-detail": [["%(category)s/%(slug)s/", ["category", "slug"]], ["%(category)s/%(slug)s/%(_0)s", ["category", "slug", "_0"]]], "api:doctorschool-detail": [["api/doctor_school/%(pk)s/", ["pk"]]], "api:province-detail": [["api/province/%(pk)s/", ["pk"]]], "api:doctorgallery-detail": [["api/doctor_gallery/%(pk)s/", ["pk"]]], "api:doctoradcity-list": [["api/doctor_ad_city/", []]], "api:location-list": [["api/location/", []]], "api:forgot_password": [["api/auth/forgot_password/", []]], "faq": [["about/faq/", []]], "api:doctortrustedassociate-list": [["api/doctor_trusted_associate/", []]], "api:doctorspecialty-list": [["api/doctor_specialty/", []]], "api:trustedassociate-list": [["api/trusted_associate/", []]], "doctor-unsubscribe": [["doctors/%(pk)s/unsubscribe/%(key)s/", ["pk", "key"]]], "press": [["about/press/", []]], "api:doctorlanguage-list": [["api/doctor_language/", []]], "api:award-list": [["api/award/", []]], "api:subscription-reason": [["api/subscriptions/%(pk)s/reason/", ["pk"]]], "api:subscription-detail": [["api/subscriptions/%(pk)s/", ["pk"]]], "api:change_password": [["api/auth/change_password/", []]], "doctor-dashboard-appointments": [["doctors/%(pk)s/dashboard/appointments/", ["pk"]]], "reports:doctors_appointments_disabled": [["reports/doctors_appointments_disabled/", []]], "reports:doctors_appointments_disabled_csv": [["reports/doctors_appointments_disabled.csv", []]], "api:city-list": [["api/city/", []]], "api:doctor-doctor-sales-detail": [["api/doctor/%(pk)s/doctor_sales_detail/", ["pk"]]], "api:doctorratingcomment-detail": [["api/doctor_rating_comment/%(pk)s/", ["pk"]]], "api:doctorappointment-mark-read": [["api/doctor_appointment/%(pk)s/mark_read/", ["pk"]]], "api:doctor-search-list": [["api/doctor_search/", []]], "api:invoice-list": [["api/invoices/", []]], "api:logout": [["api/auth/logout/", []]], "api:country-detail": [["api/country/%(pk)s/", ["pk"]]], "location-subpoena": [["facilities/%(pk)s/subpoena/", ["pk"]]], "reports:doctor_analytics_csv": [["reports/doctor_analytics_%(from)s_to_%(to)s.csv", ["from", "to"]]], "api:doctorgallery-toggle-visible": [["api/doctor_gallery/%(pk)s/toggle_visible/", ["pk"]]], "api:doctorlocation-list": [["api/doctor_location/", []]], "reports:verifications_csv": [["reports/verifications_%(from)s_to_%(to)s.csv", ["from", "to"]]], "api:subscription-alacarte": [["api/subscriptions/%(pk)s/alacarte/", ["pk"]]], "api:doctorlocation-detail": [["api/doctor_location/%(pk)s/", ["pk"]]], "specialty-detail": [["specialties/%(slug)s/", ["slug"]]], "doctor-dashboard-gallery": [["doctors/%(pk)s/dashboard/gallery/", ["pk"]]], "home": [["%(province)s/%(city)s/", ["province", "city"]], ["%(province)s/%(city)s/%(_0)s", ["province", "city", "_0"]], ["", []]], "advertise": [["about/advertise/", []]], "api:location-search": [["api/location-search/", []]], "api:doctorupdaterequest": [["api/doctors/doctor_update_request/%(doctor_id)s/", ["doctor_id"]]], "api:doctor-follow": [["api/doctor/%(pk)s/follow/", ["pk"]]], "tools:mass_location_image": [["admin/tools/mass-location-image", []]], "doctor-dashboard-insurances": [["doctors/%(pk)s/dashboard/insurances/", ["pk"]]], "reports:sales_log": [["reports/sales_log/", []]], "api:doctor-list": [["api/doctor/", []]], "user-dashboard-ratings": [["accounts/dashboard/ratings/", []]], "api:doctor_insurance_plans-detail": [["api/doctor_insurance_plan/%(pk)s/", ["pk"]]], "api:doctorverificationrequest-list": [["api/doctor_verification_request/", []]], "api:announcement_viewed": [["api/auth/announcement_viewed/", []]], "reports:american_doctor_claimed": [["reports/american_doctor_claimed/", []]], "api:insuranceplan-detail": [["api/insurance_plan/%(pk)s/", ["pk"]]], "forgot_password": [["accounts/forgot_password", []]], "reports:doctor_analytics": [["reports/doctor_analytics/", []]], "reports:verifications": [["reports/verifications/", []]], "api:locationrating-detail": [["api/location_rating/%(pk)s/", ["pk"]]], "api:article-detail": [["api/article/%(pk)s/", ["pk"]]], "doctor-dashboard": [["doctors/%(pk)s/dashboard/", ["pk"]]], "api:publication-detail": [["api/publication/%(pk)s/", ["pk"]]], "terms": [["about/terms/", []]], "api:language-list": [["api/language/", []]], "api:doctoradcity-detail": [["api/doctor_ad_city/%(pk)s/", ["pk"]]], "doctor-list": [["best-doctors/%(province)s/%(city)s/%(specialty)s/", ["province", "city", "specialty"]], ["best-doctors/%(province)s/%(city)s/%(specialty)s/%(_0)s", ["province", "city", "specialty", "_0"]], ["best-doctors/%(province)s/%(city)s/", ["province", "city"]], ["best-doctors/%(province)s/%(city)s/%(_0)s", ["province", "city", "_0"]], ["best-doctors/%(province)s/", ["province"]], ["best-doctors/%(province)s/%(_0)s", ["province", "_0"]], ["best-doctors/", []]], "api:doctorrating-claim": [["api/doctor_rating/%(pk)s/claim/", ["pk"]]], "api:location-detail": [["api/location/%(pk)s/", ["pk"]]], "api:doctorlocationverificationrequest-detail": [["api/doctor_location_verification_request/%(pk)s/", ["pk"]]], "about": [["about/", []]], "api:doctorrating-list": [["api/doctor_rating/", []]], "doctor-create": [["doctors/create/", []], ["doctors/create/%(_0)s", ["_0"]]], "api:doctor-unfollow": [["api/doctor/%(pk)s/unfollow/", ["pk"]]], "api:doctorlocationverificationrequest-list": [["api/doctor_location_verification_request/", []]], "reports:metrics": [["reports/metrics/", []]], "plans:admin": [["plans/admin/", []]], "api:doctorlocation-verify": [["api/doctor_location/%(pk)s/verify/", ["pk"]]], "reports:base": [["reports/", []]], "change_password": [["accounts/change_password/", []]], "api:plan-admin": [["api/plans/%(pk)s/admin/", ["pk"]]], "user-dashboard-account": [["accounts/dashboard/account/", []]], "api:change_marketing_okay": [["api/auth/change_marketing_okay/", []]], "api:current_user": [["api/auth/current_user/", []]], "api:doctoradspecialty-list": [["api/doctor_ad_specialty/", []]], "doctor-dashboard-billing": [["doctors/%(pk)s/dashboard/billing/", ["pk"]]], "tools:autoverify-generator": [["admin/tools/autoverify-generator/", []]], "api:doctor-profile-progress": [["api/doctor/%(pk)s/profile_progress/", ["pk"]]], "doctor-dashboard-credentials": [["doctors/%(pk)s/dashboard/credentials/", ["pk"]]], "verify_email": [["accounts/verify-email/%(user_id)s/%(auth_token)s", ["user_id", "auth_token"]]], "api:doctorspecialty-detail": [["api/doctor_specialty/%(pk)s/", ["pk"]]], "jasmine-runner": [["about/jasmine/", []]], "api:language-detail": [["api/language/%(pk)s/", ["pk"]]], "privacy": [["about/privacy/", []]], "api:doctorschool-list": [["api/doctor_school/", []]], "api:country-list": [["api/country/", []]], "doctor-detail-amp": [["amp/doctor-ratings/%(slug)s", ["slug"]]], "doctor-dashboard-locations": [["doctors/%(pk)s/dashboard/facilities/", ["pk"]]], "api:doctorexpertise-detail": [["api/doctor_expertise/%(pk)s/", ["pk"]]], "tools:es_info": [["admin/tools/es-info", []]], "plans:select-doctor": [["plans/doctor/", []]], "tools:doctor-score": [["admin/tools/doctor-score/", []]], "doctor-list-local": [["doctors/local/", []], ["doctors/local/%(_0)s", ["_0"]]], "api:ratingrecaptcha": [["api/core/rating_recaptcha_api/", []]], "doctor-reindex": [["doctors/%(pk)s/reindex/", ["pk"]]], "api:doctor-search-detail": [["api/doctor_search/%(pk)s/", ["pk"]]], "api:geoip": [["api/geoip/", []]], "specialty-list": [["specialties/", []]], "reports:simple_sales_log_csv": [["reports/simple_sales_log.csv", []]], "sales:home": [["sales/", []]], "sales:organic-reports": [["sales/organic-reports/", []]], "api:doctorappointment-detail": [["api/doctor_appointment/%(pk)s/", ["pk"]]], "api:doctorrating-flag": [["api/doctor_rating/%(pk)s/flag/", ["pk"]]], "doctor-dashboard-trusted-associates": [["doctors/%(pk)s/dashboard/associates/", ["pk"]]], "api:doctor_insurance_plans-list": [["api/doctor_insurance_plan/", []]], "tools:doctor-index": [["admin/tools/doctor-index/", []]], "api:signup": [["api/auth/signup/", []]], "api:doctorgallery-list": [["api/doctor_gallery/", []]], "api:doctorappointment-list": [["api/doctor_appointment/", []]], "reports:american_doctor_claimed_csv": [["reports/american_doctor_claimed.csv", []]], "reports:sales_log_csv": [["reports/sales_log.csv", []]], "api:doctorrating-toggle-featured": [["api/doctor_rating/%(pk)s/toggle_featured/", ["pk"]]], "api:publication-list": [["api/publication/", []]], "doctor-dashboard-analytics": [["doctors/%(pk)s/dashboard/analytics/", ["pk"]]], "api:school-list": [["api/school/", []]], "api:doctorrating-toggle-visible": [["api/doctor_rating/%(pk)s/toggle_visible/", ["pk"]]], "plans:select-success": [["plans/%(doctor_id)s/success/", ["doctor_id"]]], "reports:simple_sales_log": [["reports/simple_sales_log/", []]], "api:plan-tax": [["api/plans/%(pk)s/tax/", ["pk"]]], "api:doctor-autoverify": [["api/doctor/%(pk)s/autoverify/", ["pk"]]], "api:trustedassociate-detail": [["api/trusted_associate/%(pk)s/", ["pk"]]], "api:invoice-detail": [["api/invoices/%(pk)s/", ["pk"]]], "tools:mass_delete": [["admin/tools/mass-delete", []]], "api:coupon": [["api/coupon", []]], "api:school-detail": [["api/school/%(pk)s/", ["pk"]]], "user-dashboard": [["accounts/dashboard/", []]], "reports:canadian_doctor_claimed": [["reports/canadian_doctor_claimed/", []]], "location-reindex": [["facilities/%(pk)s/reindex/", ["pk"]]], "api:doctortrustedassociate-detail": [["api/doctor_trusted_associate/%(pk)s/", ["pk"]]], "doctor-verify": [["doctors/verify/", []]], "tools:emails": [["admin/tools/emails/%(email)s", ["email"]]], "api:doctortrustedassociate-switch-on": [["api/doctor_trusted_associate/%(pk)s/switch_on/", ["pk"]]], "doctor-detail": [["doctor-ratings/%(slug)s", ["slug"]]], "api:sales-list": [["api/sales/", []]], "api:doctoradspecialty-detail": [["api/doctor_ad_specialty/%(pk)s/", ["pk"]]], "api:doctorratingcomment-list": [["api/doctor_rating_comment/", []]], "api:doctorlanguage-detail": [["api/doctor_language/%(pk)s/", ["pk"]]], "location-doctors": [["%(category)s/%(slug)s/doctors/", ["category", "slug"]], ["%(category)s/%(slug)s/doctors/%(_0)s", ["category", "slug", "_0"]]], "api:award-detail": [["api/award/%(pk)s/", ["pk"]]], "api:doctor-user-state": [["api/doctor/%(pk)s/user_state/", ["pk"]]], "api:advertise": [["api/core/advertise/", []]], "api:card-detail": [["api/cards/%(pk)s/", ["pk"]]], "doctor-dashboard-ratings": [["doctors/%(pk)s/dashboard/ratings/", ["pk"]]], "api:sales-detail": [["api/sales/%(pk)s/", ["pk"]]], "api:login": [["api/auth/login/", []]], "api:insuranceplan-list": [["api/insurance_plan/", []]], "api:locationrating-list": [["api/location_rating/", []]], "sales:history": [["sales/history/", []]], "doctor-dashboard-invoice-list": [["doctors/%(pk)s/dashboard/invoices/", ["pk"]]], "user-dashboard-following": [["accounts/dashboard/following/", []]], "api:contact": [["api/core/contact/", []]], "reports:sales_history_log_csv": [["reports/sales_history_log_%(from)s_to_%(to)s.csv", ["from", "to"]]], "api:doctor-detail": [["api/doctor/%(pk)s/", ["pk"]]], "api:doctorlocation-primary": [["api/doctor_location/%(pk)s/primary/", ["pk"]]], "sales:reports": [["sales/reports/", []]], "tools:mass_verify": [["admin/tools/mass-verify", []]], "api:change_email": [["api/auth/change_email/", []]], "api:article-list": [["api/article/", []]], "location-list": [["facilities/%(province)s/%(city)s/", ["province", "city"]], ["facilities/", []]], "reports:sales_tagged_csv": [["reports/sales_tagged_view.csv", []]], "reports:sales_tagged_view": [["reports/sales_tagged_view/", []]], "doctor-dashboard-profile": [["doctors/%(pk)s/dashboard/profile/", ["pk"]]], "contact": [["about/contact/", []]], "api:flag-list": [["api/flag/", []]], "plans:invoice-detail": [["plans/%(doctor_id)s/invoices/%(id)s/", ["doctor_id", "id"]]], "plans:select-plan": [["plans/%(doctor_id)s/", ["doctor_id"]]], "reports:sales_history_log": [["reports/sales_history_log/", []]], "api:doctorexpertise-list": [["api/doctor_expertise/", []]]};
+        window.STATIC_URL = '//www.ratemds.com/static/';
+        window.MEDIA_URL = '//https://staging-cdn.ratemds.com/media/';
+      </script>
+<script src="//www.ratemds.com/static/js/base.f73f5603b25b.js"></script>
+<script type="text/ng-template" id="auth/login.jinja">
+  <div class="modal-body modal-auth">
+  <h4 class="modal-title">Login to RateMDs</h4>
+
+  <form 
+  	name="loginForm" 
+  	novalidate 
+  	rmd-form="{
+  		submitUrl : 'api:login',
+  		onSuccess : loginFormSuccess
+  	}"
+  >
+    <div class="alert alert-danger" ng-show="loginError">
+      [[ loginError ]] 
+    </div>
+    
+     
+    <div class="form-group">
+      <label for="login-email" class="hidden">Email</label>
+      <div class="input-group">
+        <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+        <input
+          type="email"
+          id="login-email"
+          name="email"
+          ng-model="loginFormData.email"
+          placeholder="Email"
+          class="form-control"
+          required
+          rmd-form-field="{
+          	validateInline:false
+          }"
+        >
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="login-password" class="hidden">Password</label>
+      <div class="input-group">
+        <span class="input-group-addon"><i class="fa fa-asterisk"></i></span>
+        <input
+          type="password"
+          id="login-password"
+          name="login-password"
+          ng-model="loginFormData.password"
+          placeholder="Password"
+          class="form-control"
+          required
+          rmd-form-field
+        >
+      </div>
+    </div>
+
+    <div class="modal-auth-forgot">
+      <a href="/accounts/forgot_password">Forgot password?</a>
+    </div>
+
+    <button class="btn btn-success btn-block btn-lg" >Login</button>
+    <a href="javascript:;" ng-click="$dismiss();showSignup()">Signup</a> or
+    <a href="javascript:;" ng-click="$dismiss()">Cancel</a>
+
+  </form>
+</div>
+</script>
+<script type="text/ng-template" id="auth/signup.jinja">
+  
+<div class="modal-body modal-auth">
+  <h4
+    class="modal-title"
+    ng-class="{
+      'model-title-message': options.doctor || options.rating || options.follow || options.message
+    }"
+  >Signup to RateMDs</h4>
+
+  <form
+    name="signupForm"
+    novalidate
+    rmd-form="{
+      submitUrl: 'api:signup',
+      onSuccess: signupFormSuccess
+    }"
+  >
+
+    <p ng-show="options.doctor" class="modal-auth-message">
+      <strong>Doctors:</strong>
+      The first step in claiming your profile is signing up for an account.
+    </p>
+
+    <p ng-show="options.rating" class="modal-auth-message">
+      Signup to edit this rating in the future, and keep
+      track of doctor responses.
+    </p>
+
+    <p ng-show="options.follow" class="modal-auth-message">
+      Signup to follow this doctor and keep track of their
+      latest ratings and updates.
+    </p>
+
+    <p ng-show="options.message" class="modal-auth-message">
+      [[ options.message ]]
+    </p>
+
+    <div class="form-group">
+      <label for="email" class="control-label hidden">Email</label>
+      <div class="input-group">
+        <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+        <input
+          type="email"
+          id="email"
+          ng-model="signupFormData.email"
+          placeholder="Email"
+          name="email"
+          class="form-control"
+          required
+          rmd-form-field="{
+          	validateInline:false
+          }"
+        >
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="password" class="control-label hidden">Password</label>
+      <div class="input-group">
+        <span class="input-group-addon"><i class="fa fa-asterisk"></i></span>
+        <input
+          type="password"
+          id="password"
+          name="password"
+          ng-model="signupFormData.password"
+          placeholder="Password"
+          class="form-control"
+          required
+          rmd-form-field="{
+          	validateInline:false
+          }"
+        >
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="confirm-password" class="control-label hidden">Confirm Password</label>
+      <div class="input-group">
+        <span class="input-group-addon"><i class="fa fa-asterisk"></i></span>
+        <input
+          type="password"
+          id="confirm-password"
+          name="confirm-password"
+          placeholder="Confirm Password"
+          class="form-control"
+          ng-model="confirmPassword"
+          ui-validate="'$value==signupFormData.password'"
+          ui-validate-watch="'signupFormData.password'"
+          required
+          rmd-form-field="{
+          	validator: 'Your passwords do not match',
+          	validateInline:false
+          }"
+        >
+        </div>
+    </div>
+
+    <div class="form-group modal-auth-opin modal-auth-opin-first">
+      <label>
+        <input
+          type="checkbox"
+          name="marketing_okay"
+          ng-model="signupFormData.marketing_okay"
+          rmd-form-field
+        >
+        Send me updates via email
+      </label>
+    </div>
+
+    <div class="form-group modal-auth-opin">
+      <label>
+        <input
+          type="checkbox"
+          name="tos"
+          ng-model="signupFormData.tos_okay"
+          rmd-form-field
+          required
+        >
+        I agree to <a href="/about/terms/">RateMDs terms of use</a>
+      </label>
+    </div>
+
+    <button type="submit" class="btn btn-success btn-block btn-lg">Signup</button>
+    <a href="javascript:;" ng-click="$dismiss();showLogin()">Login</a> or
+    <a href="javascript:;" ng-click="$dismiss()">Cancel</a>
+
+  </form>
+
+</div>
+</script>
+<script type="text/ng-template" id="dropdown.jinja">
+  
+<div class="btn-group dropdown">
+  <a
+    class="btn btn-default dropdown-toggle"
+    data-toggle="dropdown"
+    ng-class="{disabled: disabled}"
+  >
+    <span ng-show="value==null">Choose a [[ name ]]</span>
+    <span ng-show="value!=null">
+      <span ng-show="!!name">[[ name ]]:</span>
+      [[ valueName ]]
+    </span>
+    <i class="fa fa-caret-down"></i>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li ng-repeat="option in options">
+      <a href="javascript:;" ng-click="setValue(option[0])">[[ option[1] ]]</a>
+    </li>
+  </ul>
+</div>
+</script>
+<script type="text/ng-template" id="filter_dropdown.jinja">
+  
+<div class="btn-group filter-dropdown" ng-class="{open: isOpen}">
+  <a
+    class="btn btn-default dropdown-toggle"
+    ng-click="isOpen = !isOpen"
+    ng-class="{disabled: disabled}"
+  >
+    <span ng-show="value==null">Choose a [[ name ]]</span>
+    <span ng-show="value!=null">[[ name ]]: [[ valueName ]]</span>
+    <i class="fa fa-caret-down"></i>
+  </a>
+  <ul class="dropdown-menu" role="menu" ng-show="isOpen">
+    <div class="form-group">
+      <input
+        type="text"
+        ng-model="filter"
+        class="form-control"
+        placeholder="Find a City"
+      >
+    </div>
+    <li ng-repeat="option in filteredOptions">
+      <a ng-show="!goto" href="javascript:;" ng-click="setValue(option[0])">[[ option[1] ]]</a>
+      <a ng-show="goto" ng-href="[[ option[0] ]]">[[ option[1] ]]</a>
+    </li>
+  </ul>
+</div>
+</script>
+<script type="text/ng-template" id="star_rating.jinja">
+  
+<span class="star-rating" ng-class="{'star-rating-empty': count == 0}">
+  <span class="stars"><span class="star"
+    ng-class="{
+        half: rating >= 4.5 && rating < 5,
+        selected: rating >= 5,
+    }"
+    ></span><span class="star"
+      ng-class="{
+        half: rating >= 3.5 && rating < 4,
+        selected: rating >= 4,
+      }"
+    ></span><span class="star"
+      ng-class="{
+        half: rating >= 2.5 && rating < 3,
+        selected: rating >= 3,
+      }"
+    ></span><span class="star"
+      ng-class="{
+        half: rating >= 1.5 && rating < 2,
+        selected: rating >= 2,
+      }"
+    ></span><span class="star"
+      ng-class="{
+        half: rating >= 0.5 && rating < 1,
+        selected: rating >= 1,
+      }"
+    ></span>
+  </span>
+</span>
+<div class="star-rating-count" ng-show="count">
+  [[ count ]] reviews
+</div>
+</script>
+<script type="text/ng-template" id="star_rating_input.jinja">
+  
+<span class="star-rating star-rating-input star-rating-empty">
+
+  <span class="stars"><span
+      class="star star-5"
+      ng-click="setValue(5)"
+      data-value="5"
+      ng-class="{selected: selected==5}"
+    ></span><span
+      class="star star-4"
+      ng-click="setValue(4)"
+      data-value="4"
+      ng-class="{selected: selected==4}"
+    ></span><span
+      class="star star-3"
+      ng-click="setValue(3)"
+      data-value="3"
+      ng-class="{selected: selected==3}"
+    ></span><span
+      class="star star-2"
+      ng-click="setValue(2)"
+      data-value="2"
+      ng-class="{selected: selected==2}"
+    ></span><span
+      class="star star-1"
+      ng-click="setValue(1)"
+      data-value="1"
+      ng-class="{selected: selected==1}"
+    ></span></span>
+
+  <span class="hint" ng-show="(selected==5 && hover==null) || hover==5">Excellent</span>
+  <span class="hint" ng-show="(selected==4 && hover==null) || hover==4">Good</span>
+  <span class="hint" ng-show="(selected==3 && hover==null) || hover==3">Okay</span>
+  <span class="hint" ng-show="(selected==2 && hover==null) || hover==2">Poor</span>
+  <span class="hint" ng-show="(selected==1 && hover==null) || hover==1">Terrible</span>
+
+</span>
+</script>
+<script type="text/ng-template" id="city_selector_item.jinja">
+  
+<a href="javascript:;">
+  <span bind-html-unsafe="match.label | typeaheadHighlight:query"></span><br>
+  [[ match.model.country_name ]]
+</a>
+</script>
+<script type="text/ng-template" id="alert.jinja">
+  
+<div class='modal-body'>
+  [[ content ]]
+</div>
+<div class='modal-footer'>
+  <button class='btn btn-success' ng-click='$dismiss()'>Okay</button>
+</div>
+</script>
+<script src="//www.ratemds.com/static/js/entries/commons.1f73181ac252.js"></script>
+<script src="//www.ratemds.com/static/bower/angular-bootstrap/ui-bootstrap-tpls.3c4113e89bfa.js"></script>
+<script>
+    window.DATA.doctorID = '2139979';
+    window.DATA.adSpecialtySlug = 'homeopath';
+    
+    
+      window.DATA.doctorDetailSideAdData = JSON.parse("{\u0022doctor\u0022: {\u0022slug\u0022: \u0022marilyn\u002Dfreedman\u002Dtoronto\u002Don\u002Dca\u0022, \u0022created\u0022: \u00222018\u002D01\u002D15T02:16:11.411Z\u0022, \u0022modified\u0022: \u00222018\u002D04\u002D27T14:26:54.848Z\u0022, \u0022id\u0022: 2148520, \u0022facet_url\u0022: \u0022/best\u002Ddoctors/?specialty\u003Dhomeopath\u0022, \u0022full_name\u0022: \u0022Marilyn Freedman\u0022, \u0022full_name_specialty\u0022: \u0022Marilyn Freedman\u0022, \u0022location\u0022: {\u0022id\u0022: 125773, \u0022slug\u0022: \u0022ca\u002Don\u002Dtoronto\u002Dnone\u002D36\u002D37\u002D38\u002D39\u002D40\u002D41\u0022, \u0022category\u0022: \u0022clinic\u0022, \u0022created\u0022: \u00222014\u002D06\u002D12T21:57:23.561Z\u0022, \u0022modified\u0022: \u00222018\u002D04\u002D27T14:27:05.338Z\u0022, \u0022longitude\u0022: \u002D79.438746, \u0022latitude\u0022: 43.72374, \u0022name\u0022: \u0022Marilyn Freedman, Hom\u0022, \u0022address\u0022: \u0022102 Brookview Drive\u0022, \u0022suite\u0022: null, \u0022postal_code\u0022: \u0022M6A 2K6\u0022, \u0022city\u0022: {\u0022province_name\u0022: \u0022Ontario\u0022, \u0022province_slug\u0022: \u0022on\u0022, \u0022country_name\u0022: \u0022Canada\u0022, \u0022country_slug\u0022: \u0022ca\u0022, \u0022cover_images\u0022: {\u0022autoxauto\u0022: \u0022https://cdn1.ratemds.com/media/locations/city/toronto2.jpg\u0022, \u0022253x83\u0022: \u0022https://cdn1.ratemds.com/media/locations/city/toronto2.jpg_thumbs/v1_at_253x83.jpg\u0022}, \u0022id\u0022: 14, \u0022modified\u0022: \u00222018\u002D06\u002D07T13:25:27.451Z\u0022, \u0022created\u0022: \u00222014\u002D06\u002D25T15:34:15.276Z\u0022, \u0022deleted\u0022: false, \u0022slug\u0022: \u0022toronto\u0022, \u0022name\u0022: \u0022Toronto\u0022, \u0022cover_image\u0022: \u0022locations/city/toronto2.jpg\u0022, \u0022province\u0022: 8, \u0022canonical\u0022: true}, \u0022city_id\u0022: 14, \u0022phone_number\u0022: \u0022(416) 823\u002D7918\u0022, \u0022website\u0022: \u0022http://www.torontohomeopath.ca/\u0022, \u0022image\u0022: \u0022\u0022, \u0022images\u0022: {\u0022165x165\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_165x165.jpg\u0022, \u002270x70\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_70x70.jpg\u0022, \u0022autoxauto\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_autoxauto.jpg\u0022, \u002277x77\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_77x77.jpg\u0022, \u0022100x100\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_100x100.jpg\u0022}, \u0022rating\u0022: {\u0022count\u0022: 0, \u0022cleanliness\u0022: null, \u0022average\u0022: null, \u0022value\u0022: null, \u0022facilities\u0022: null, \u0022services\u0022: null}, \u0022url\u0022: \u0022/clinic/ca\u002Don\u002Dtoronto\u002Dnone\u002D36\u002D37\u002D38\u002D39\u002D40\u002D41/\u0022}, \u0022images\u0022: {\u0022autoxauto\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg\u0022, \u002277x77\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_77x77.jpg\u0022, \u0022100x100\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_100x100.jpg\u0022, \u002270x70\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_70x70.jpg\u0022, \u002232x32\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_32x32.jpg\u0022, \u0022165x165\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_165x165.jpg\u0022}, \u0022rating\u0022: {\u0022count\u0022: 1, \u0022knowledge\u0022: 5.0, \u0022average\u0022: 5.0, \u0022helpfulness\u0022: 5.0, \u0022punctuality\u0022: 5.0, \u0022staff\u0022: 5.0}, \u0022sample_rating_comment\u0022: \u0022Your healing starts here. World famous homeopath. Caring, professional and skilled.\u0022, \u0022sample_rating_pk\u0022: 3821523, \u0022vanity_specialty\u0022: \u0022\u0022, \u0022specialty\u0022: \u0022homeopath\u0022, \u0022specialty_name\u0022: \u0022Homeopath\u0022, \u0022url\u0022: \u0022/doctor\u002Dratings/marilyn\u002Dfreedman\u002Dtoronto\u002Don\u002Dca\u0022, \u0022verified\u0022: true}}");
+    
+
+     window.DATA.doctorDetailProps = JSON.parse("{\u0022nav\u0022: \u0022ratings\u0022, \u0022trustedAssociates\u0022: null, \u0022doctor\u0022: {\u0022slug\u0022: \u0022kerri\u002Dflood\u002Dtoronto\u002Don\u002Dca\u0022, \u0022created\u0022: \u00222017\u002D03\u002D03T14:01:14.836Z\u0022, \u0022modified\u0022: \u00222017\u002D04\u002D24T14:39:29.497Z\u0022, \u0022id\u0022: 2139979, \u0022doctor_locations\u0022: [{\u0022id\u0022: 2326025, \u0022primary\u0022: true, \u0022verified\u0022: true, \u0022location\u0022: {\u0022id\u0022: 2158061, \u0022slug\u0022: \u0022ca\u002Don\u002Dtoronto\u002Dkerri\u002Dflood\u0022, \u0022category\u0022: \u0022clinic\u0022, \u0022created\u0022: \u00222017\u002D03\u002D03T14:00:37.319Z\u0022, \u0022modified\u0022: \u00222017\u002D04\u002D24T14:39:28.704Z\u0022, \u0022longitude\u0022: null, \u0022latitude\u0022: null, \u0022name\u0022: \u0022Kerri Flood\u0022, \u0022address\u0022: \u0022390 Dupont Street\u0022, \u0022suite\u0022: \u0022201\u0022, \u0022postal_code\u0022: \u0022M5R1V9\u0022, \u0022city\u0022: {\u0022province_name\u0022: \u0022Ontario\u0022, \u0022province_slug\u0022: \u0022on\u0022, \u0022country_name\u0022: \u0022Canada\u0022, \u0022country_slug\u0022: \u0022ca\u0022, \u0022cover_images\u0022: {\u0022autoxauto\u0022: \u0022https://cdn1.ratemds.com/media/locations/city/toronto2.jpg\u0022, \u0022253x83\u0022: \u0022https://cdn1.ratemds.com/media/locations/city/toronto2.jpg_thumbs/v1_at_253x83.jpg\u0022}, \u0022id\u0022: 14, \u0022modified\u0022: \u00222018\u002D06\u002D07T13:25:27.451Z\u0022, \u0022created\u0022: \u00222014\u002D06\u002D25T15:34:15.276Z\u0022, \u0022deleted\u0022: false, \u0022slug\u0022: \u0022toronto\u0022, \u0022name\u0022: \u0022Toronto\u0022, \u0022cover_image\u0022: \u0022locations/city/toronto2.jpg\u0022, \u0022province\u0022: 8, \u0022canonical\u0022: true}, \u0022city_id\u0022: 14, \u0022phone_number\u0022: \u0022416\u002D579\u002D6234\u0022, \u0022website\u0022: \u0022\u0022, \u0022image\u0022: \u0022\u0022, \u0022images\u0022: {\u0022165x165\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_165x165.jpg\u0022, \u002270x70\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_70x70.jpg\u0022, \u0022autoxauto\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_autoxauto.jpg\u0022, \u002277x77\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_77x77.jpg\u0022, \u0022100x100\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_100x100.jpg\u0022}, \u0022rating\u0022: {\u0022count\u0022: 0, \u0022cleanliness\u0022: null, \u0022average\u0022: null, \u0022value\u0022: null, \u0022facilities\u0022: null, \u0022services\u0022: null}, \u0022url\u0022: \u0022/clinic/ca\u002Don\u002Dtoronto\u002Dkerri\u002Dflood/\u0022}, \u0022location_id\u0022: 2158061}], \u0022specialty\u0022: \u0022homeopath\u0022, \u0022specialty_name\u0022: \u0022Homeopath\u0022, \u0022specialty_html_title\u0022: \u0022Homeopath\u0022, \u0022specialty_html_title_plural\u0022: \u0022Homeopaths\u0022, \u0022name\u0022: \u0022Kerri Flood\u0022, \u0022gender\u0022: \u0022F\u0022, \u0022url\u0022: \u0022/doctor\u002Dratings/kerri\u002Dflood\u002Dtoronto\u002Don\u002Dca\u0022, \u0022facet_url\u0022: \u0022/best\u002Ddoctors/?specialty\u003Dhomeopath\u0022, \u0022verified\u0022: true, \u0022image\u0022: \u0022doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg\u0022, \u0022images\u0022: {\u0022autoxauto\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg\u0022, \u002277x77\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_77x77.jpg\u0022, \u0022100x100\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_100x100.jpg\u0022, \u002270x70\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_70x70.jpg\u0022, \u002232x32\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_32x32.jpg\u0022, \u0022165x165\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_165x165.jpg\u0022}, \u0022full_name\u0022: \u0022Kerri Flood\u0022, \u0022full_name_specialty\u0022: \u0022Kerri Flood\u0022, \u0022rating\u0022: {\u0022count\u0022: 1, \u0022knowledge\u0022: 5.0, \u0022average\u0022: 5.0, \u0022helpfulness\u0022: 5.0, \u0022punctuality\u0022: 5.0, \u0022staff\u0022: 5.0}, \u0022city_name\u0022: \u0022Toronto, ON\u0022, \u0022owner_id\u0022: 63182, \u0022location\u0022: {\u0022id\u0022: 2158061, \u0022slug\u0022: \u0022ca\u002Don\u002Dtoronto\u002Dkerri\u002Dflood\u0022, \u0022category\u0022: \u0022clinic\u0022, \u0022created\u0022: \u00222017\u002D03\u002D03T14:00:37.319Z\u0022, \u0022modified\u0022: \u00222017\u002D04\u002D24T14:39:28.704Z\u0022, \u0022longitude\u0022: null, \u0022latitude\u0022: null, \u0022name\u0022: \u0022Kerri Flood\u0022, \u0022address\u0022: \u0022390 Dupont Street\u0022, \u0022suite\u0022: \u0022201\u0022, \u0022postal_code\u0022: \u0022M5R1V9\u0022, \u0022city\u0022: {\u0022province_name\u0022: \u0022Ontario\u0022, \u0022province_slug\u0022: \u0022on\u0022, \u0022country_name\u0022: \u0022Canada\u0022, \u0022country_slug\u0022: \u0022ca\u0022, \u0022cover_images\u0022: {\u0022autoxauto\u0022: \u0022https://cdn1.ratemds.com/media/locations/city/toronto2.jpg\u0022, \u0022253x83\u0022: \u0022https://cdn1.ratemds.com/media/locations/city/toronto2.jpg_thumbs/v1_at_253x83.jpg\u0022}, \u0022id\u0022: 14, \u0022modified\u0022: \u00222018\u002D06\u002D07T13:25:27.451Z\u0022, \u0022created\u0022: \u00222014\u002D06\u002D25T15:34:15.276Z\u0022, \u0022deleted\u0022: false, \u0022slug\u0022: \u0022toronto\u0022, \u0022name\u0022: \u0022Toronto\u0022, \u0022cover_image\u0022: \u0022locations/city/toronto2.jpg\u0022, \u0022province\u0022: 8, \u0022canonical\u0022: true}, \u0022city_id\u0022: 14, \u0022phone_number\u0022: \u0022416\u002D579\u002D6234\u0022, \u0022website\u0022: \u0022\u0022, \u0022image\u0022: \u0022\u0022, \u0022images\u0022: {\u0022165x165\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_165x165.jpg\u0022, \u002270x70\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_70x70.jpg\u0022, \u0022autoxauto\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_autoxauto.jpg\u0022, \u002277x77\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_77x77.jpg\u0022, \u0022100x100\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_100x100.jpg\u0022}, \u0022rating\u0022: {\u0022count\u0022: 0, \u0022cleanliness\u0022: null, \u0022average\u0022: null, \u0022value\u0022: null, \u0022facilities\u0022: null, \u0022services\u0022: null}, \u0022url\u0022: \u0022/clinic/ca\u002Don\u002Dtoronto\u002Dkerri\u002Dflood/\u0022}, \u0022bio\u0022: \u0022\u0022, \u0022accepting_patients\u0022: true, \u0022insurance_plans\u0022: [], \u0022doctor_schools\u0022: [{\u0022school\u0022: {\u0022id\u0022: 976, \u0022modified\u0022: \u00222018\u002D06\u002D04T15:11:17.325Z\u0022, \u0022created\u0022: \u00222014\u002D07\u002D08T21:43:56.999Z\u0022, \u0022deleted\u0022: false, \u0022slug\u0022: \u0022university\u002Dof\u002Dtoronto\u0022, \u0022name\u0022: \u0022University of Toronto\u0022, \u0022canonical\u0022: true, \u0022image\u0022: \u0022\u0022, \u0022old_id\u0022: 28081}, \u0022school_id\u0022: 976, \u0022doctor_id\u0022: 2139979, \u0022id\u0022: 876644, \u0022modified\u0022: \u00222017\u002D04\u002D21T19:26:42.249Z\u0022, \u0022created\u0022: \u00222017\u002D04\u002D21T19:26:03.374Z\u0022, \u0022doctor\u0022: 2139979, \u0022canonical\u0022: false, \u0022graduation_year\u0022: 1998}], \u0022doctor_languages\u0022: [{\u0022language\u0022: {\u0022id\u0022: 182, \u0022modified\u0022: \u00222018\u002D06\u002D08T18:24:08.412Z\u0022, \u0022created\u0022: \u00222014\u002D10\u002D27T19:34:35.053Z\u0022, \u0022deleted\u0022: false, \u0022slug\u0022: \u0022english\u0022, \u0022name\u0022: \u0022English\u0022, \u0022canonical\u0022: true}, \u0022language_id\u0022: 182, \u0022doctor_id\u0022: 2139979, \u0022id\u0022: 56376, \u0022modified\u0022: \u00222017\u002D04\u002D21T19:21:03.763Z\u0022, \u0022created\u0022: \u00222017\u002D04\u002D21T19:21:03.763Z\u0022, \u0022doctor\u0022: 2139979}], \u0022doctor_specialties\u0022: [{\u0022specialty\u0022: {\u0022created\u0022: \u00222016\u002D12\u002D13T22:29:20.506Z\u0022, \u0022modified\u0022: \u00222018\u002D06\u002D07T21:10:19.211Z\u0022, \u0022deleted\u0022: false, \u0022id\u0022: 88, \u0022slug\u0022: \u0022homeopath\u0022, \u0022name\u0022: \u0022Homeopath\u0022, \u0022url\u0022: \u0022/specialties/homeopath/\u0022, \u0022name_plural\u0022: \u0022Homeopaths\u0022, \u0022has_phd\u0022: false, \u0022image\u0022: \u0022specialties/specialty/image/homeopath.png\u0022, \u0022html_title\u0022: \u0022Homeopath\u0022, \u0022html_title_plural\u0022: \u0022Homeopaths\u0022}, \u0022specialty_id\u0022: 88, \u0022doctor_id\u0022: 2139979, \u0022id\u0022: 2846, \u0022modified\u0022: \u00222017\u002D03\u002D04T16:21:34.995Z\u0022, \u0022created\u0022: \u00222017\u002D03\u002D04T16:21:34.996Z\u0022, \u0022doctor\u0022: 2139979}], \u0022doctor_expertises\u0022: [], \u0022doctor_insurance_plans\u0022: [], \u0022awards\u0022: [], \u0022publications\u0022: [], \u0022rating_emails_subscribed\u0022: true, \u0022rating_emails\u0022: false, \u0022doctor_ad_specialties\u0022: [], \u0022doctor_ad_cities\u0022: [], \u0022ad_specialties_cap\u0022: 0, \u0022ad_cities_cap\u0022: 0, \u0022hide_ratings\u0022: false, \u0022sample_rating_comment\u0022: \u0022My experience seeing Kerri has been incredibly profound.  She listens attentively with a caring curiosity, and hones in on important details that could easily be missed. Kerri is also incredibly knowledgeable and often draws from current scientific findings relevant to my treatment. It was incredible how much easier it was to follow her  lifestyle and nutrition recommendations  after taking the remedy she prescribed.  I am very pleased by the shifts I have experienced after just one session.\u0022, \u0022sample_rating_pk\u0022: 3385229, \u0022customer_id\u0022: null, \u0022appointments_available\u0022: false, \u0022appointments_enabled\u0022: false, \u0022appointments_email\u0022: null, \u0022appointments_message\u0022: null, \u0022appointments_thankyou\u0022: null, \u0022gallery_enabled\u0022: false, \u0022rankings\u0022: {\u0022count\u0022: 3, \u0022value\u0022: 1}, \u0022specialty_name_plural\u0022: \u0022Homeopaths\u0022, \u0022geocode_address\u0022: \u0022kerri flood, 390 dupont street, toronto, ontario, canada, m5r1v9\u0022, \u0022force_login\u0022: false, \u0022vanity_specialty\u0022: \u0022\u0022, \u0022location_url\u0022: \u0022https://www.ratemds.com/clinic/ca\u002Don\u002Dtoronto\u002Dkerri\u002Dflood/\u0022, \u0022doctor_alert\u0022: null}, \u0022ratingsPage\u0022: {\u0022count\u0022: 1, \u0022next\u0022: null, \u0022previous\u0022: null, \u0022current_page\u0022: 1, \u0022total_pages\u0022: 1, \u0022results\u0022: [{\u0022id\u0022: 3385229, \u0022created\u0022: \u00222017\u002D03\u002D03T16:47:56.050Z\u0022, \u0022modified\u0022: \u00222017\u002D03\u002D03T16:47:56.050Z\u0022, \u0022doctor\u0022: 2139979, \u0022doctor_images\u0022: {\u0022autoxauto\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg\u0022, \u002277x77\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_77x77.jpg\u0022, \u0022100x100\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_100x100.jpg\u0022, \u002270x70\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_70x70.jpg\u0022, \u002232x32\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_32x32.jpg\u0022, \u0022165x165\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dkerri\u002Dflood\u002Dhomeopath.jpg_thumbs/v1_at_165x165.jpg\u0022}, \u0022doctor_full_name\u0022: \u0022Kerri Flood\u0022, \u0022doctor_url\u0022: \u0022/doctor\u002Dratings/kerri\u002Dflood\u002Dtoronto\u002Don\u002Dca\u0022, \u0022doctor_owner\u0022: 63182, \u0022staff\u0022: 5.0, \u0022punctuality\u0022: 5.0, \u0022helpfulness\u0022: 5.0, \u0022knowledge\u0022: 5.0, \u0022average\u0022: 5.0, \u0022comment\u0022: \u0022My experience seeing Kerri has been incredibly profound.  She listens attentively with a caring curiosity, and hones in on important details that could easily be missed. Kerri is also incredibly knowledgeable and often draws from current scientific findings relevant to my treatment. It was incredible how much easier it was to follow her  lifestyle and nutrition recommendations  after taking the remedy she prescribed.  I am very pleased by the shifts I have experienced after just one session.\u0022, \u0022visible\u0022: true, \u0022featured\u0022: false, \u0022comments\u0022: [], \u0022location\u0022: null, \u0022insurance_provider\u0022: null, \u0022amount_paid\u0022: null, \u0022procedure\u0022: null, \u0022procedure_date\u0022: null, \u0022hide_ratings\u0022: false, \u0022feature_ratings\u0022: false, \u0022votes\u0022: {\u0022count\u0022: 0}, \u0022has_flag\u0022: false}]}, \u0022tabbed\u0022: false, \u0022facets\u0022: {\u0022page\u0022: 1}, \u0022recaptchakey\u0022: \u00226LdvPicUAAAAAEaF8Y7qdJ9fjH5yYkeIo4Za0QB4\u0022, \u0022mainAdDoctor\u0022: {\u0022slug\u0022: \u0022marilyn\u002Dfreedman\u002Dtoronto\u002Don\u002Dca\u0022, \u0022created\u0022: \u00222018\u002D01\u002D15T02:16:11.411Z\u0022, \u0022modified\u0022: \u00222018\u002D04\u002D27T14:26:54.848Z\u0022, \u0022id\u0022: 2148520, \u0022facet_url\u0022: \u0022/best\u002Ddoctors/?specialty\u003Dhomeopath\u0022, \u0022full_name\u0022: \u0022Marilyn Freedman\u0022, \u0022full_name_specialty\u0022: \u0022Marilyn Freedman\u0022, \u0022location\u0022: {\u0022id\u0022: 125773, \u0022slug\u0022: \u0022ca\u002Don\u002Dtoronto\u002Dnone\u002D36\u002D37\u002D38\u002D39\u002D40\u002D41\u0022, \u0022category\u0022: \u0022clinic\u0022, \u0022created\u0022: \u00222014\u002D06\u002D12T21:57:23.561Z\u0022, \u0022modified\u0022: \u00222018\u002D04\u002D27T14:27:05.338Z\u0022, \u0022longitude\u0022: \u002D79.438746, \u0022latitude\u0022: 43.72374, \u0022name\u0022: \u0022Marilyn Freedman, Hom\u0022, \u0022address\u0022: \u0022102 Brookview Drive\u0022, \u0022suite\u0022: null, \u0022postal_code\u0022: \u0022M6A 2K6\u0022, \u0022city\u0022: {\u0022province_name\u0022: \u0022Ontario\u0022, \u0022province_slug\u0022: \u0022on\u0022, \u0022country_name\u0022: \u0022Canada\u0022, \u0022country_slug\u0022: \u0022ca\u0022, \u0022cover_images\u0022: {\u0022autoxauto\u0022: \u0022https://cdn1.ratemds.com/media/locations/city/toronto2.jpg\u0022, \u0022253x83\u0022: \u0022https://cdn1.ratemds.com/media/locations/city/toronto2.jpg_thumbs/v1_at_253x83.jpg\u0022}, \u0022id\u0022: 14, \u0022modified\u0022: \u00222018\u002D06\u002D07T13:25:27.451Z\u0022, \u0022created\u0022: \u00222014\u002D06\u002D25T15:34:15.276Z\u0022, \u0022deleted\u0022: false, \u0022slug\u0022: \u0022toronto\u0022, \u0022name\u0022: \u0022Toronto\u0022, \u0022cover_image\u0022: \u0022locations/city/toronto2.jpg\u0022, \u0022province\u0022: 8, \u0022canonical\u0022: true}, \u0022city_id\u0022: 14, \u0022phone_number\u0022: \u0022(416) 823\u002D7918\u0022, \u0022website\u0022: \u0022http://www.torontohomeopath.ca/\u0022, \u0022image\u0022: \u0022\u0022, \u0022images\u0022: {\u0022165x165\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_165x165.jpg\u0022, \u002270x70\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_70x70.jpg\u0022, \u0022autoxauto\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_autoxauto.jpg\u0022, \u002277x77\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_77x77.jpg\u0022, \u0022100x100\u0022: \u0022//www.ratemds.com/static/img/locations/clinic.png_thumbs/v1_at_100x100.jpg\u0022}, \u0022rating\u0022: {\u0022count\u0022: 0, \u0022cleanliness\u0022: null, \u0022average\u0022: null, \u0022value\u0022: null, \u0022facilities\u0022: null, \u0022services\u0022: null}, \u0022url\u0022: \u0022/clinic/ca\u002Don\u002Dtoronto\u002Dnone\u002D36\u002D37\u002D38\u002D39\u002D40\u002D41/\u0022}, \u0022images\u0022: {\u0022autoxauto\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg\u0022, \u002277x77\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_77x77.jpg\u0022, \u0022100x100\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_100x100.jpg\u0022, \u002270x70\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_70x70.jpg\u0022, \u002232x32\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_32x32.jpg\u0022, \u0022165x165\u0022: \u0022https://cdn1.ratemds.com/media/doctors/doctor/image/doctor\u002Dmarilyn\u002Dfreedman\u002Dhomeopath.jpeg_thumbs/v1_at_165x165.jpg\u0022}, \u0022rating\u0022: {\u0022count\u0022: 1, \u0022knowledge\u0022: 5.0, \u0022average\u0022: 5.0, \u0022helpfulness\u0022: 5.0, \u0022punctuality\u0022: 5.0, \u0022staff\u0022: 5.0}, \u0022sample_rating_comment\u0022: \u0022Your healing starts here. World famous homeopath. Caring, professional and skilled.\u0022, \u0022sample_rating_pk\u0022: 3821523, \u0022vanity_specialty\u0022: \u0022\u0022, \u0022specialty\u0022: \u0022homeopath\u0022, \u0022specialty_name\u0022: \u0022Homeopath\u0022, \u0022url\u0022: \u0022/doctor\u002Dratings/marilyn\u002Dfreedman\u002Dtoronto\u002Don\u002Dca\u0022, \u0022verified\u0022: true}, \u0022gallery\u0022: []}");
+
+    
+  </script>
+<script src="//www.ratemds.com/static/js/doctors/doctor_detail.6c9c089280d0.js"></script>
+<script src="//www.ratemds.com/static/js/entries/doctors/doctor_detail.jsx.5c38308e26da.js"></script>
+<script src="//www.ratemds.com/static/js/entries/doctors/doctor_detail/main_paid_doctor.jsx.0b6f8e77dc80.js"></script>
+<script src="//www.ratemds.com/static/js/entries/doctors/doctor_detail/side_paid_doctor.jsx.8221ca8e6247.js"></script>
+<script type="text/ng-template" id="modals/doctor-address.html">
+    <div
+      class= "modal-address"
+      
+        style="background-image: url('https://cdn1.ratemds.com/media/locations/location/map/2158061-map.png');"
+      
+    >
+      <div class="modal-body">
+        
+          <address>
+            
+              <strong>Kerri Flood</strong><br>
+            
+
+            
+
+              390 Dupont Street<br>
+
+              
+                
+                  Suite
+                
+                201<br>
+              
+
+              Toronto,
+              ON,
+              Canada<br>
+
+              
+            
+          </address>
+        
+      </div>
+
+      <div class="modal-footer">
+        <a class="btn btn-default" ng-click="close()">Close</a>
+        
+          <a
+            href="https://maps.google.com?q=kerri%20flood%2C%20390%20dupont%20street%2C%20toronto%2C%20ontario%2C%20canada%2C%20m5r1v9"
+            class="btn btn-success"
+            target="_blank"
+          >
+            Get Directions
+          </a>
+        
+      </div>
+    </div>
+  </script>
+<script>
+      (function(){var x=document.createElement("script");x.src="//loadus.exelator.com/load/?p=239&g=101&c=927052&ctg=health&j=d",x.type="text/javascript",x.async=!0,document.body.appendChild(x);})()
+    </script>
+<script>
+      console.log('%cRate%cMDs%c\nWE ARE HIRING!',
+        'font-weight: bold;font-size: 40px;color: hsl(183, 44%, 43%);',
+        'font-weight: bold;font-size: 40px;color: hsl(185, 5%, 39%);',
+        'font-size: 13px;color: hsl(185, 5%, 39%);'
+      );
+    </script>
+</body>
+</html>
