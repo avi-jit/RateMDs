@@ -7,7 +7,7 @@ The folders arranged are as follows:
 **3. scripts**: Cleaning, Preprocessing and scripts for Rating Analysis, Lexical Regression and learning Embeddings.
 **4. models**: Learned models from the above mentioned methods.
 
-We'll soon be posting a link back to the paper that describes this work along with its results. It is not yet on arxiv but has been submitted to the [AMIA 2019 Informatics Summit](https://www.amia.org/summit2019).
+The paper has been accepted at MLHC 2019 ([Machine Learning for Healthcare](https://www.mlforhc.org)) Conference, Ann Arbor, Michigan.
 
 **Contributors**:
 Avijit Thawani, Michael J. Paul, Urmimala Sarkar, Byron C. Wallace.
