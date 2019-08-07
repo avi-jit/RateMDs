@@ -9,5 +9,7 @@ The folders arranged are as follows:
 
 The paper has been accepted at MLHC 2019 ([Machine Learning for Healthcare](https://www.mlforhc.org)) Conference, Ann Arbor, Michigan.
 
+[LINK TO PAPER](https://www.mlforhc.org/s/Thawani.pdf)
+
 **Contributors**:
 Avijit Thawani, Michael J. Paul, Urmimala Sarkar, Byron C. Wallace.
