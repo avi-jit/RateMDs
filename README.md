@@ -25,7 +25,7 @@ The easiest way to explore our project, without installing or downloading anythi
 2. `scripts`: Jupyter Notebooks to reproduce our results.
 
 # Contributors
-Avijit Thawani, University of Southern California (work done when interning at Northeastern in Summer 2018).
-Michael J. Paul, University of Colorado Boulder.
-Urmimala Sarkar, University of California San Francisco.
+Avijit Thawani, University of Southern California (work done when interning at Northeastern in Summer 2018). <br>
+Michael J. Paul, University of Colorado Boulder. <br>
+Urmimala Sarkar, University of California San Francisco. <br>
 Byron C. Wallace, Northeastern University.
