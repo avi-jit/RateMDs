@@ -1,23 +1,24 @@
-# RateMDs
+# TL;DR
 This repository contains data and scripts pertaining to work done by [Avijit Thawani](https://sites.google.com/view/avijit-thawani/home) while at Northeastern University (summer 2018) under the guidance of [Dr. Byron C. Wallace](http://www.byronwallace.com/) (College of Computer and Information Science, Northeastern University, Boston, MA).
 
 The paper has been accepted at MLHC 2019 ([Machine Learning for Healthcare](https://www.mlforhc.org)) Conference, Ann Arbor, Michigan:
 Thawani A. Paul M J. Sarkar U. Wallace B C. Are Online Reviews of Physicians Biased Against Female Providers? Machine Learning for Healthcare 2019.
 
-[Link to paper](https://www.mlforhc.org/s/Thawani.pdf) Please cite us and mail me at [thawani@usc.edu](mailto:thawani@usc.edu) for feedback, errors, ideas for future work, or just to say Hi!
+# [Link to paper](https://www.mlforhc.org/s/Thawani.pdf) 
+Please cite us and mail me at [thawani@usc.edu](mailto:thawani@usc.edu) for feedback, errors, ideas for future work, or just to say Hi!
 
-[Google Colab code](https://colab.research.google.com/drive/1SAI9Mukbm3_CpsX94ODXCTSv5l-C_wzx#scrollTo=fmbi9OQjeqDw):
+# [Google Colab code](https://colab.research.google.com/drive/1SAI9Mukbm3_CpsX94ODXCTSv5l-C_wzx#scrollTo=fmbi9OQjeqDw)
 The easiest way to explore our project, without installing or downloading anything. Just copy our `RateMDs/` folder from [Google Drive](https://drive.google.com/drive/folders/1sX_Z02psZcFdZe4yqH5NxxiQ2mKKsEXZ?usp=sharing) link and give its access to this Google Colab Notebook.
 
-[Data on Google Drive](https://drive.google.com/drive/folders/1sX_Z02psZcFdZe4yqH5NxxiQ2mKKsEXZ?usp=sharing):
+# [Data on Google Drive](https://drive.google.com/drive/folders/1sX_Z02psZcFdZe4yqH5NxxiQ2mKKsEXZ?usp=sharing)
 1. `processed_1.csv*`: clean data containing 37646 reviews and ratings along with `specialty` and `gender`.
 2. `ratemds.model`: Pretrained word embedding (gensim) model. Scripts to play are in the `scripts/` folder as well as on [Google Colab](https://colab.research.google.com/drive/1SAI9Mukbm3_CpsX94ODXCTSv5l-C_wzx#scrollTo=fmbi9OQjeqDw).
 
-This Github repository:
+# This Github repository
 1. `raw data`: parsed HTML files from [RateMDs.com](http://ratemds.com)
 2. `scripts`: Jupyter Notebooks to reproduce our results.
 
-**Contributors**:
+# Contributors
 Avijit Thawani, University of Southern California (work done when interning at Northeastern in Summer 2018).
 Michael J. Paul, University of Colorado Boulder.
 Urmimala Sarkar, University of California San Francisco.
