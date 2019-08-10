@@ -4,7 +4,9 @@ This repository contains data and scripts pertaining to work done by [Avijit Tha
 
 # [Link to paper](https://www.mlforhc.org/s/Thawani.pdf) 
 ```
-Thawani A. Paul M J. Sarkar U. Wallace B C. Are Online Reviews of Physicians Biased Against Female Providers? In Proceedings of Machine Learning Research. 106:1-17, 2019.
+Thawani A. Paul M J. Sarkar U. Wallace B C. 
+Are Online Reviews of Physicians Biased Against Female Providers? 
+In Proceedings of Machine Learning Research. 106:1-17, 2019.
 ```
 
 The paper was presented at MLHC 2019 ([Machine Learning for Healthcare](https://www.mlforhc.org)) Conference, Ann Arbor, Michigan. Here's a [poster](https://github.com/avi-jit/RateMDs/blob/master/poster3.pdf) summarizing our work, [slides](https://github.com/avi-jit/RateMDs/blob/master/3_72.pdf) from the talk and a [video presentation](https://github.com/avi-jit/RateMDs/blob/master/livestream.mp4) for the same.
@@ -18,7 +20,7 @@ The easiest way to explore our project, without installing or downloading anythi
 1. `processed_1.csv*`: clean data containing 37646 reviews and ratings along with `specialty` and `gender`.
 2. `ratemds.model`: Pretrained word embedding (gensim) model. Scripts to play are in the `scripts/` folder as well as on [Google Colab](https://colab.research.google.com/drive/1SAI9Mukbm3_CpsX94ODXCTSv5l-C_wzx#scrollTo=fmbi9OQjeqDw).
 
-# This Github repository
+# This Repository
 1. `raw data`: parsed HTML files from [RateMDs.com](http://ratemds.com)
 2. `scripts`: Jupyter Notebooks to reproduce our results.
 
