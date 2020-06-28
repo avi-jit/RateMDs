@@ -22,7 +22,14 @@ The easiest way to explore our project, without installing or downloading anythi
 
 # This Repository
 1. `raw data`: parsed HTML files from [RateMDs.com](http://ratemds.com)
-2. `scripts`: Jupyter Notebooks to reproduce our results.
+2. `unclean.csv`: id, review, physician specialty, physician gender, physician name, document label
+3. `processed_1.csv`: review id, physician id, physician specialty, physician gender, rating staff, rating punctuality, rating helpfulness, rating knowledgeability, review text (tokenized)
+4. `all_Github.csv`: physician_id.review_id, physician_id, physician name, physician specialty, physician gender, rating staff, rating punctuality, rating helpfulness, rating knowledgeability, review text
+5. `scripts`: Jupyter Notebooks to reproduce our results (corresponding section from the [paper]((https://www.mlforhc.org/s/Thawani.pdf) ) in parantheses): 
+- `clean.ipynb`: Data preprocessing (Section 2.1)
+- `regression.ipynb`: Rating Analysis (Section 2.2)
+- `LR.ipynb`: Lexical Regression (Section 2.3.1) 
+- `match.ipynb`: Embeddings (Section 2.3.2)
 
 # Contributors
 Avijit Thawani, University of Southern California (work done when interning at Northeastern in Summer 2018). <br>
