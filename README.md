@@ -13,12 +13,12 @@ The paper was presented at MLHC 2019 ([Machine Learning for Healthcare](https://
 
 Please cite us and mail me at [thawani@usc.edu](mailto:thawani@usc.edu) for feedback, errors, ideas for future work, or just to say Hi!
 
-# [Google Colab code](https://colab.research.google.com/drive/1SAI9Mukbm3_CpsX94ODXCTSv5l-C_wzx#scrollTo=fmbi9OQjeqDw)
+<!---# [Google Colab code](https://colab.research.google.com/drive/1SAI9Mukbm3_CpsX94ODXCTSv5l-C_wzx#scrollTo=fmbi9OQjeqDw)
 The easiest way to explore our project, without installing or downloading anything. Just copy our `RateMDs/` folder from [Google Drive](https://drive.google.com/drive/folders/1sX_Z02psZcFdZe4yqH5NxxiQ2mKKsEXZ?usp=sharing) link and give its access to this Google Colab Notebook.
 
 # [Data on Google Drive](https://drive.google.com/drive/folders/1sX_Z02psZcFdZe4yqH5NxxiQ2mKKsEXZ?usp=sharing)
 1. `processed_1.csv*`: clean data containing 37646 reviews and ratings along with `specialty` and `gender`.
-2. `ratemds.model`: Pretrained word embedding (gensim) model. Scripts to play are in the `scripts/` folder as well as on [Google Colab](https://colab.research.google.com/drive/1SAI9Mukbm3_CpsX94ODXCTSv5l-C_wzx#scrollTo=fmbi9OQjeqDw).
+2. `ratemds.model`: Pretrained word embedding (gensim) model. Scripts to play are in the `scripts/` folder as well as on [Google Colab](https://colab.research.google.com/drive/1SAI9Mukbm3_CpsX94ODXCTSv5l-C_wzx#scrollTo=fmbi9OQjeqDw).--->
 
 # This Repository
 1. `raw data`: parsed HTML files from [RateMDs.com](http://ratemds.com)
